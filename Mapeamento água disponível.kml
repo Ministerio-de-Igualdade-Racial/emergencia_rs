@@ -1,0 +1,1903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mapeamento água disponível</name>
+    <description>Casas e estabelecimentos que disponibilizam água de poço artesiano, pontos da Corsan, bicas</description>
+    <Style id="icon-1703-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1703-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1703-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1703-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1703-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Água disponível</name>
+      <Placemark>
+        <name>R. Batinga, 48</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0929233,-29.9289139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Cerejeira, 227</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0927657,-29.9280602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Princesa Isabel, 766</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0889203,-29.9332407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Pedro Hulman, 204</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1013344,-29.9439816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Ignácio Thiele, 249</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0854525,-29.9153751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Lalau Miranda, 158 (CASA 03, NA PASSARELA)
+</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0785811,-29.9052188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E.E.E.M. Presidente Kennedy</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1023568,-29.9560084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liess Máquinas e Equipamentos Ltda</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1718583,-29.9089523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Flórida, 1006</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0404291,-29.9497495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Osório Corrêa, 403</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0928854,-29.9424231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Caí, 1126</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0910418,-29.9329881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Armazém do peixe</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1441282,-29.9055984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Majenny Moveis</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1503729,-29.669534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Padre José Anchieta, 462</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0839023,-29.9238493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Capitão Garibaldi Pinto dos Santos, 467</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0911767,-29.925393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa de Portugal</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1361936,-30.0762249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maderocha</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0742345,-30.0158991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Francisco Brochado da Rocha, 1286</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0987009,-29.9379254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Posto Shell</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0473005,-30.0056312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ferragem do baixinho
+</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0513252,-29.9964982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Salgado Filho, 715</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0781096,-29.9929354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Jovelino de Souza, 921 (bica de água)
+</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0804636,-30.0118182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. São Francisco, 900 (bica de água)</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0808938,-30.0124092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Estados Unidos, 375</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.069791,-29.9007027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Princesa Isabel, 419</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0863321,-29.935476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Telmo Silveira Dorneles, 794</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0914804,-29.9361112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Lalau Miranda, 138</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0788504,-29.9051304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Amapá, 651</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0942753,-29.9415178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Getúlio Vargas, 337</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0800676,-29.9104397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Ignácio Thiele, 209</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0857789,-29.9151834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Mário Teixeira de Souza, 330</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0861052,-29.9160995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Holmerindo Viêira Águiar, 89</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0781912,-29.9034434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Dep. Dorival Cândido Luz de Oliveira, 789</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0813754,-29.9065607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Dep. Dorival Cândido Luz de Oliveira, 1243</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0791981,-29.9031201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Tamôios, 84</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.092286,-29.948149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Telmo Silveira Dorneles, 794</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0914804,-29.9361112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Maranhão, 618</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0773219,-29.9176576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Pindorama, 210</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0779056,-29.9232457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. dos Plátanos, 427</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0902462,-29.9219569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Itajaí, 315</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0810861,-29.9132349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Palmeira das Missões, 291</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0781975,-29.9148454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Bororó, 248</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0883067,-29.9345537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. da Ponte, 284</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0815337,-29.9168628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Elisa, 1023</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0600559,-29.9422767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Liberdade, 951</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.169386,-29.9011965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Doze de Outubro, 45</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0834943,-29.919696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Caiapó, 581</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0838174,-29.9342388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Lalau Miranda, 323</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0772105,-29.9063444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Charrua, 140</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0908786,-29.9345737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. São Carlos, 86</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0576354,-29.9391564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. da Ponte, 459</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0817756,-29.9152887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Cerejeira, 158</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0935186,-29.9281006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Teotônio Viléla, 1851</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.079211,-29.9100643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Ivan Carlos Paulo, 93</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0762332,-29.9005825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Doná Palmira, 208</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0856973,-29.9105706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Duarte da Costa, 565</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0826078,-29.9283413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. José Antônio Rodrigues, 195</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0793027,-29.9068588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Holanda, 120</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0656795,-29.9068399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Santa Maria, 39</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1320295,-29.7940444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Holmerindo Viêira Águiar, 137</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0777323,-29.9036748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Cariri, 132</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0882369,-29.9362395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Doná Palmira, 208</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0856973,-29.9105706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Farroupilha, 3084</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.164949,-29.9151649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Siemens</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.133159,-29.91113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Xavantes, 540</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0835351,-29.9352951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Alexandre de Gusmão, 951</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.142136,-29.9165758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Itapetininga, 144</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0821889,-29.9434953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. José Antônio Rodrigues, 221</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0790617,-29.907008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Praça Central (CORSAN)</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0765799,-29.999941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Caturritas, 198 (CORSAN)</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.073866,-30.036976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTG Guapos da Amizade (CORSAN)</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0845311,-29.9320079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paróquia São Vicente de Paulo (CORSAN)</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0942474,-29.9527481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Boa Vista, 41 (CORSAN)</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0777473,-29.9366995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Cel. João Batista São da Silveira e Souza, 623 (CORSAN)</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1016609,-29.9577325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. 29 de Setembro, 115 (CORSAN)</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1084397,-29.9494896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Frei Orlando, 118 (CORSAN)</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1794728,-29.9212924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Garibaldi (CORSAN) - Espaço oliveira silveira / rua coberta</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.175032,-29.8490883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Pelotas (CORSAN) - Em frente à Escola Estadual Caetano Gonçalves da Silva</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1674022,-29.8477457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Governador Ernesto Dorneles (CORSAN) - Espaço Rei Pelé / Avenida do Carnaval</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1431989,-29.8567965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Orestes Pianta (CORSAN) - Em frente ao Centro de Convivência
+Território de Paz </name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1328941,-29.8581614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Luíz Pasteur (CORSAN) - Em frente ao Trianon Esporte Clube</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1727861,-29.830689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ponto de Táxi Parada 68 (CORSAN)</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.044247,-29.9352034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Entre as ruas Alexandrino de Alencar e Alvarez
+Cabral (CORSAN) 
+</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0613436,-29.9179203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EMEI Olenca Valente (CORSAN)</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0677415,-29.9458386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cohab Blocos (CORSAN) - Rótula, reservatório fixo</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1645281,-29.8104224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Capitão Mario Ferreira (CORSAN) - Caminhão itinerante </name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1598917,-29.8141186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rod. Tapir Rocha, 9350 (CORSAN)</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -50.9428023,-30.1100889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Dário Gonçalves Molho, 1040 (CORSAN)</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0822705,-30.0632171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Liberdade, 1505 (CORSAN)</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1066034,-30.0679816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estr. Berico José Bernardes, 1889 (CORSAN)</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.079478,-30.1144189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Raquel Wolf, 2 (CORSAN)</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.006009,-30.0844532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Salinas, 85</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0885662,-29.8875701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Salinas, 235</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0870028,-29.8877969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Atlântida, 178</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0867636,-29.8826155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. João de Barro, 115</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0713652,-29.8903672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Arroio Teixeira, 10</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0880125,-29.8816439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Atlântida, 1066</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0889611,-29.890696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Cassino, 70</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0889611,-29.887945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Clara Nunes, 75</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0854525,-29.8808753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Clara Nunes, 285</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0875739,-29.8796282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Nova Imbe, 10</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0890223,-29.8849286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Juca Maciel, 186</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -50.9709985,-29.9436403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Iuguslavia, 95</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0669234,-29.9030534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Santa Maria, 39</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1320295,-29.7940444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Carlos Trein Filho, 62</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1872691,-30.0226878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Alfredo Carlos Ebling, 378</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1297726,-29.7873913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comércio Campestre Clube</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1208448,-29.8397857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sete de Setembro Campestre Clube</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1488889,-29.8205556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gorillas Fight Club</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0808508,-29.9372448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maderocha</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0742345,-30.0158991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Salgado Filho, 715</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0781096,-29.9929354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Salgado Filho, 103</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0781912,-29.9983855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Gáspar Martins, 779</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.079975,-29.9918881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NOSSOSUPER supermercado</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -50.9772922,-29.9664452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Flaviano Moraes Monroe, 514</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.087021,-30.032041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. Brasília, 28</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0390227,-30.0103487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Jovelino de Souza, 921</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0804636,-30.0118182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. São Francisco, 900</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0808938,-30.0124092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Graça Aranha, 726</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.056136,-30.022222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Caçapava</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0762438,-30.0201104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Caí, 841</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0923837,-29.9349462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Osvaldo Cruz, 373</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0902857,-29.9400473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Posto de gasolina em frente ao D'Tudo Embalagens]]></name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1520149,-30.0207923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Liberdade, 990</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1727137,-29.9083436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estr. Afonso Lourenço Mariante, 1578</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1629786,-30.1125062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Dep. Astério de Melo, 380</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.20279,-30.0960169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beco dos Rossatos, 75</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.2024349,-30.1452963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Carlos Trein Filho, 81</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1877284,-30.0229466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estr. João Vedana, 178 (empresa Charrua)</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.2191403,-30.1104731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. do Cerro, 500</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.126187,-30.192549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Fábio Luís Silveira, 29</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1245932,-30.0141651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. da Gruta, 98</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1897715,-30.0849016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Irmã Teresilda Steffen</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1161581,-30.0260526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua das Jabuticabas, 73</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.107757,-30.1200261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Lageado, 320</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1866776,-30.0398524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Dr. Francisco Roberto Dall Igna, 200</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.2131088,-30.1495392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. da Prudência, 456</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.2311271,-30.1138683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Padre José Anchieta, 340</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0832189,-29.9228946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Nils Taranger, 535</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0877418,-29.9003732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. São Tomé, 291</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0906236,-29.9385815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Bahia, 844</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0699008,-29.9159913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Clara Nunes, 381</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0877907,-29.8797479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Caiçara, 140</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0790939,-29.9133581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aristides Osório Francisco, 175</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0839362,-29.9001989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Argentina, 220</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0757437,-29.9067913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Áustria, 374</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.074505,-29.901108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Manoel Inácio Nunes, 1339</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0723034,-29.9012476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Osório Corrêa, 1014</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0946329,-29.9371982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Fraga, 31</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0835996,-29.94715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Cascavel, 106</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0765187,-29.948695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Alcides Mendes, 50</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0868396,-29.9136052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Alcides Mendes, 169</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0858299,-29.9144085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Florêncio Rosa da Silveira, 53</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0781504,-29.9027033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Doná Isaura, 257</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0802716,-29.9094412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. São Tomé, 291</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0906236,-29.9385815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Osvaldo Cruz, 373</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0902857,-29.9400473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Osvaldo Cruz, 427</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0903774,-29.9395967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Osvaldo Cruz, 849</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0920465,-29.9359124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Palmito, 13</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0757978,-29.9094105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. da Ponte, 82 - r</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0802614,-29.9185962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Goiás, 717</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0723174,-29.9149921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Bahia, 844</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0699008,-29.9159913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. José Brambila, 1649</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0784461,-29.9172749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Pindorama, 240</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0783135,-29.9233499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Rio Grande do Sul, 205</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0755167,-29.9136377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Tiaraju, 81</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0780327,-29.9207026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Liberdade, 990</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1727137,-29.9083436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Guimarães Rosa, 350</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0196817,-29.9258082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Bernardino Silveira Amorim, 720</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1105107,-29.986467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Carlos Trein Filho, 81</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1877284,-30.0229466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. da Prudência, 456</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.2311271,-30.1138683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beco dos Rossatos, 75</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.2024349,-30.1452963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Dr. Francisco Roberto Dall Igna, 200</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.2131088,-30.1495392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. da Gruta, 98</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1897715,-30.0849016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Lageado, 1920</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1786342,-30.033607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. do Cerro, 500</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.126187,-30.192549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estr. Afonso Lourenço Mariante, 1578</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1629786,-30.1125062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua das Jabuticabas, 73</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.107757,-30.1200261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Fábio Luís Silveira, 29</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1245932,-30.0141651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Dep. Astério de Melo, 380</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.20279,-30.0960169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Brasil Aquino Pedroso, 813 (CORSAN)
+</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.109997,-29.9510361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Capitão Garibaldi Pinto dos Santos, 1094 (Kabello sucatas)</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0917446,-29.9227249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Amapá, 555</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.094225,-29.942555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estr. Estância Grande, 395</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -50.992876,-30.042312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Paquistão, 355</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1474911,-29.6768958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Rincão, 34</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.136934,-29.6702441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estr. Cap. Gentil Machado de Godoy, 5905</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0148728,-30.050358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vinícola Pianegonda - Vinhos Naturais</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -50.8836854,-30.1725658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Manoel Santana, 160</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0556874,-30.1158088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Manoel Santana, 450</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0491987,-30.1150551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Integrado de Especialidades em Saúde - CIES Feevale</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1202888,-29.6689739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estrada Costa Gama</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1740923,-30.1235952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Indústria e Comércio Bastos</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1330998,-29.9108386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Nonoai, 124</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.037657,-29.9147606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Maj. Alberto Bins, 424</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.092429,-29.9425254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atex Brasil</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.103616,-29.9201579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estádio Dirceu de Castro (Arena Cruzeiro)</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0926408,-29.9096005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pisos Do Bosque</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0914264,-29.9256547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Coroados, 56</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0878697,-29.9376201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Estremosa, 139</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0932063,-29.9268721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Boqueirão, 1091</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1675066,-29.9041652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Santa Ana, 33</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.045403,-29.9342314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Bernardino Freitas, 138</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.0767635,-29.9022957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gruta Nossa Senhora de Lourdes</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1892624,-30.0850592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colégio Anchieta Portão 7 - Entre os portões 7 e 8
+</name>
+        <styleUrl>#icon-1703-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1736019,-30.0302536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
