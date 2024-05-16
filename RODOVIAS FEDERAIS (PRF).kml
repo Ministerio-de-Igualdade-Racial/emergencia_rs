@@ -74,15 +74,71 @@
     </StyleMap>
     <Placemark>
       <name>PRF</name>
+      <address>-30.040315330438,-51.3291246283212</address>
+      <description><![CDATA[latlong: -30.040315330438,-51.3291246283212<br>unnamed (1): 49<br>UF: RS<br>BR: 290<br>Km: 112<br>Data/Hora inicial: 2024-04-03 11:40:00<br>Data/Hora final: 2024-05-10 21:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: ELDORADO DO SUL<br>Lideranças/Outras informações: São três pontos. Todos livres, com os devidos cuidados, obviamente.<br>informacao: BR:290/RS - Km: 112.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -30.040315330438<br>longitude: -51,329<br>situacao: Liberado]]></description>
+      <styleUrl>#icon-1739-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latlong">
+          <value>-30.040315330438,-51.3291246283212</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value>49.0</value>
+        </Data>
+        <Data name="UF">
+          <value>RS</value>
+        </Data>
+        <Data name="BR">
+          <value>290.0</value>
+        </Data>
+        <Data name="Km">
+          <value>112.0</value>
+        </Data>
+        <Data name="Data/Hora inicial">
+          <value>2024-04-03 11:40:00</value>
+        </Data>
+        <Data name="Data/Hora final">
+          <value>2024-05-10 21:00:00</value>
+        </Data>
+        <Data name="Causador">
+          <value>Fenômenos da natureza</value>
+        </Data>
+        <Data name="Amplitude">
+          <value>Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="Tipo de prejuízo">
+          <value/>
+        </Data>
+        <Data name="Nome do município">
+          <value>ELDORADO DO SUL</value>
+        </Data>
+        <Data name="Lideranças/Outras informações">
+          <value>São três pontos. Todos livres, com os devidos cuidados, obviamente.</value>
+        </Data>
+        <Data name="informacao">
+          <value>BR:290/RS - Km: 112.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="latitude">
+          <value>-30.040315330438</value>
+        </Data>
+        <Data name="longitude">
+          <value>-51.3291246283212</value>
+        </Data>
+        <Data name="situacao">
+          <value>Liberado</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PRF</name>
       <address>-29.96943644202161,-51.11786018626639</address>
-      <description><![CDATA[latlong: -29.96943644202161,-51.11786018626639<br>unnamed (1): 49<br>UF: RS<br>BR: 386<br>Km: 440<br>Data/Hora inicial: 2024-04-03 11:40:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Parcial:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: CANOAS<br>Lideranças/Outras informações: Liberado tráfego em uma faixa da alça de acesso à BR 448, pela pista sul, sentido capital.<br>14/05 - 11h40 - Bloqueio total das alças de acesso para a BR-448, em ambos os sentidos<br>informacao: BR:386/RS - Km: 440.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos<br>latitude: -29.96943644202161<br>longitude: -51,118<br>situacao: Bloqueio Parcial]]></description>
+      <description><![CDATA[latlong: -29.96943644202161,-51.11786018626639<br>unnamed (1): 50<br>UF: RS<br>BR: 386<br>Km: 440<br>Data/Hora inicial: 2024-04-03 11:40:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Parcial:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: CANOAS<br>Lideranças/Outras informações: Liberado tráfego em uma faixa da alça de acesso à BR 448, pela pista sul, sentido capital.<br>14/05 - 11h40 - Bloqueio total das alças de acesso para a BR-448, em ambos os sentidos<br>informacao: BR:386/RS - Km: 440.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos<br>latitude: -29.96943644202161<br>longitude: -51,118<br>situacao: Bloqueio Parcial]]></description>
       <styleUrl>#icon-1899-DB4436</styleUrl>
       <ExtendedData>
         <Data name="latlong">
           <value>-29.96943644202161,-51.11786018626639</value>
         </Data>
         <Data name="unnamed (1)">
-          <value>49.0</value>
+          <value>50.0</value>
         </Data>
         <Data name="UF">
           <value>RS</value>
@@ -126,62 +182,6 @@
         </Data>
         <Data name="situacao">
           <value>Bloqueio Parcial</value>
-        </Data>
-      </ExtendedData>
-    </Placemark>
-    <Placemark>
-      <name>PRF</name>
-      <address>-30.040315330438,-51.3291246283212</address>
-      <description><![CDATA[latlong: -30.040315330438,-51.3291246283212<br>unnamed (1): 50<br>UF: RS<br>BR: 290<br>Km: 112<br>Data/Hora inicial: 2024-04-03 11:40:00<br>Data/Hora final: 2024-05-10 21:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: ELDORADO DO SUL<br>Lideranças/Outras informações: São três pontos. Todos livres, com os devidos cuidados, obviamente.<br>informacao: BR:290/RS - Km: 112.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -30.040315330438<br>longitude: -51,329<br>situacao: Liberado]]></description>
-      <styleUrl>#icon-1739-097138</styleUrl>
-      <ExtendedData>
-        <Data name="latlong">
-          <value>-30.040315330438,-51.3291246283212</value>
-        </Data>
-        <Data name="unnamed (1)">
-          <value>50.0</value>
-        </Data>
-        <Data name="UF">
-          <value>RS</value>
-        </Data>
-        <Data name="BR">
-          <value>290.0</value>
-        </Data>
-        <Data name="Km">
-          <value>112.0</value>
-        </Data>
-        <Data name="Data/Hora inicial">
-          <value>2024-04-03 11:40:00</value>
-        </Data>
-        <Data name="Data/Hora final">
-          <value>2024-05-10 21:00:00</value>
-        </Data>
-        <Data name="Causador">
-          <value>Fenômenos da natureza</value>
-        </Data>
-        <Data name="Amplitude">
-          <value>Total:Ambos os sentidos</value>
-        </Data>
-        <Data name="Tipo de prejuízo">
-          <value/>
-        </Data>
-        <Data name="Nome do município">
-          <value>ELDORADO DO SUL</value>
-        </Data>
-        <Data name="Lideranças/Outras informações">
-          <value>São três pontos. Todos livres, com os devidos cuidados, obviamente.</value>
-        </Data>
-        <Data name="informacao">
-          <value>BR:290/RS - Km: 112.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
-        </Data>
-        <Data name="latitude">
-          <value>-30.040315330438</value>
-        </Data>
-        <Data name="longitude">
-          <value>-51.3291246283212</value>
-        </Data>
-        <Data name="situacao">
-          <value>Liberado</value>
         </Data>
       </ExtendedData>
     </Placemark>
@@ -299,69 +299,15 @@
     </Placemark>
     <Placemark>
       <name>PRF</name>
-      <description><![CDATA[latlong: <br>unnamed (1): 61<br>UF: RS<br>BR: 386<br>Km: 304<br>Data/Hora inicial: 2024-04-30 07:20:00<br>Data/Hora final: 2024-05-07 11:10:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Decrescente<br>Tipo de prejuízo: <br>Nome do município: POUSO NOVO<br>Lideranças/Outras informações: <br>informacao: BR:386/RS - Km: 304.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Decrescente<br>latitude: <br>longitude: <br>situacao: Liberado]]></description>
-      <ExtendedData>
-        <Data name="latlong">
-          <value/>
-        </Data>
-        <Data name="unnamed (1)">
-          <value>61.0</value>
-        </Data>
-        <Data name="UF">
-          <value>RS</value>
-        </Data>
-        <Data name="BR">
-          <value>386.0</value>
-        </Data>
-        <Data name="Km">
-          <value>304.0</value>
-        </Data>
-        <Data name="Data/Hora inicial">
-          <value>2024-04-30 07:20:00</value>
-        </Data>
-        <Data name="Data/Hora final">
-          <value>2024-05-07 11:10:00</value>
-        </Data>
-        <Data name="Causador">
-          <value>Fenômenos da natureza</value>
-        </Data>
-        <Data name="Amplitude">
-          <value>Total:Decrescente</value>
-        </Data>
-        <Data name="Tipo de prejuízo">
-          <value/>
-        </Data>
-        <Data name="Nome do município">
-          <value>POUSO NOVO</value>
-        </Data>
-        <Data name="Lideranças/Outras informações">
-          <value/>
-        </Data>
-        <Data name="informacao">
-          <value>BR:386/RS - Km: 304.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Decrescente</value>
-        </Data>
-        <Data name="latitude">
-          <value/>
-        </Data>
-        <Data name="longitude">
-          <value/>
-        </Data>
-        <Data name="situacao">
-          <value>Liberado</value>
-        </Data>
-      </ExtendedData>
-    </Placemark>
-    <Placemark>
-      <name>PRF</name>
       <address>-29.226427,-52.163639</address>
-      <description><![CDATA[latlong: -29.226427,-52.163639<br>unnamed (1): 62<br>UF: RS<br>BR: 386<br>Km: 311<br>Data/Hora inicial: 2024-04-30 07:20:00<br>Data/Hora final: 2024-05-05 12:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: MARQUES DE SOUZA<br>Lideranças/Outras informações: <br>informacao: BR:386/RS - Km: 311.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.226427<br>longitude: -52,164<br>situacao: Liberado]]></description>
+      <description><![CDATA[latlong: -29.226427,-52.163639<br>unnamed (1): 61<br>UF: RS<br>BR: 386<br>Km: 311<br>Data/Hora inicial: 2024-04-30 07:20:00<br>Data/Hora final: 2024-05-05 12:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: MARQUES DE SOUZA<br>Lideranças/Outras informações: <br>informacao: BR:386/RS - Km: 311.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.226427<br>longitude: -52,164<br>situacao: Liberado]]></description>
       <styleUrl>#icon-1739-097138</styleUrl>
       <ExtendedData>
         <Data name="latlong">
           <value>-29.226427,-52.163639</value>
         </Data>
         <Data name="unnamed (1)">
-          <value>62.0</value>
+          <value>61.0</value>
         </Data>
         <Data name="UF">
           <value>RS</value>
@@ -401,6 +347,60 @@
         </Data>
         <Data name="longitude">
           <value>-52.163639</value>
+        </Data>
+        <Data name="situacao">
+          <value>Liberado</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PRF</name>
+      <description><![CDATA[latlong: <br>unnamed (1): 62<br>UF: RS<br>BR: 386<br>Km: 304<br>Data/Hora inicial: 2024-04-30 07:20:00<br>Data/Hora final: 2024-05-07 11:10:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Decrescente<br>Tipo de prejuízo: <br>Nome do município: POUSO NOVO<br>Lideranças/Outras informações: <br>informacao: BR:386/RS - Km: 304.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Decrescente<br>latitude: <br>longitude: <br>situacao: Liberado]]></description>
+      <ExtendedData>
+        <Data name="latlong">
+          <value/>
+        </Data>
+        <Data name="unnamed (1)">
+          <value>62.0</value>
+        </Data>
+        <Data name="UF">
+          <value>RS</value>
+        </Data>
+        <Data name="BR">
+          <value>386.0</value>
+        </Data>
+        <Data name="Km">
+          <value>304.0</value>
+        </Data>
+        <Data name="Data/Hora inicial">
+          <value>2024-04-30 07:20:00</value>
+        </Data>
+        <Data name="Data/Hora final">
+          <value>2024-05-07 11:10:00</value>
+        </Data>
+        <Data name="Causador">
+          <value>Fenômenos da natureza</value>
+        </Data>
+        <Data name="Amplitude">
+          <value>Total:Decrescente</value>
+        </Data>
+        <Data name="Tipo de prejuízo">
+          <value/>
+        </Data>
+        <Data name="Nome do município">
+          <value>POUSO NOVO</value>
+        </Data>
+        <Data name="Lideranças/Outras informações">
+          <value/>
+        </Data>
+        <Data name="informacao">
+          <value>BR:386/RS - Km: 304.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Decrescente</value>
+        </Data>
+        <Data name="latitude">
+          <value/>
+        </Data>
+        <Data name="longitude">
+          <value/>
         </Data>
         <Data name="situacao">
           <value>Liberado</value>
@@ -464,14 +464,14 @@
     <Placemark>
       <name>PRF</name>
       <address>-29.337743,-51.15705</address>
-      <description><![CDATA[latlong: -29.337743,-51.15705<br>unnamed (1): 64<br>UF: RS<br>BR: 116<br>Km: 175<br>Data/Hora inicial: 2024-04-30 08:00:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: NOVA PETRÓPOLIS<br>Lideranças/Outras informações: Devido às fortes chuvas<br>informacao: BR:116/RS - Km: 175.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.337743<br>longitude: -51,157<br>situacao: Bloqueio Total]]></description>
+      <description><![CDATA[latlong: -29.337743,-51.15705<br>unnamed (1): 65<br>UF: RS<br>BR: 116<br>Km: 175<br>Data/Hora inicial: 2024-04-30 08:00:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: NOVA PETRÓPOLIS<br>Lideranças/Outras informações: Devido às fortes chuvas<br>informacao: BR:116/RS - Km: 175.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.337743<br>longitude: -51,157<br>situacao: Bloqueio Total]]></description>
       <styleUrl>#icon-1899-DB4436</styleUrl>
       <ExtendedData>
         <Data name="latlong">
           <value>-29.337743,-51.15705</value>
         </Data>
         <Data name="unnamed (1)">
-          <value>64.0</value>
+          <value>65.0</value>
         </Data>
         <Data name="UF">
           <value>RS</value>
@@ -741,67 +741,13 @@
     </Placemark>
     <Placemark>
       <name>PRF</name>
-      <description><![CDATA[latlong: <br>unnamed (1): 76<br>UF: RS<br>BR: 386<br>Km: 342<br>Data/Hora inicial: 2024-04-30 16:30:00<br>Data/Hora final: 2024-05-07 11:10:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Decrescente<br>Tipo de prejuízo: <br>Nome do município: LAJEADO<br>Lideranças/Outras informações: <br>informacao: BR:386/RS - Km: 342.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Decrescente<br>latitude: <br>longitude: <br>situacao: Liberado]]></description>
+      <description><![CDATA[latlong: <br>unnamed (1): 76<br>UF: RS<br>BR: 386<br>Km: 249<br>Data/Hora inicial: 2024-04-30 16:30:00<br>Data/Hora final: 2024-05-07 11:10:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: SOLEDADE<br>Lideranças/Outras informações: <br>informacao: BR:386/RS - Km: 249.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: <br>longitude: <br>situacao: Liberado]]></description>
       <ExtendedData>
         <Data name="latlong">
           <value/>
         </Data>
         <Data name="unnamed (1)">
           <value>76.0</value>
-        </Data>
-        <Data name="UF">
-          <value>RS</value>
-        </Data>
-        <Data name="BR">
-          <value>386.0</value>
-        </Data>
-        <Data name="Km">
-          <value>342.0</value>
-        </Data>
-        <Data name="Data/Hora inicial">
-          <value>2024-04-30 16:30:00</value>
-        </Data>
-        <Data name="Data/Hora final">
-          <value>2024-05-07 11:10:00</value>
-        </Data>
-        <Data name="Causador">
-          <value>Fenômenos da natureza</value>
-        </Data>
-        <Data name="Amplitude">
-          <value>Total:Decrescente</value>
-        </Data>
-        <Data name="Tipo de prejuízo">
-          <value/>
-        </Data>
-        <Data name="Nome do município">
-          <value>LAJEADO</value>
-        </Data>
-        <Data name="Lideranças/Outras informações">
-          <value/>
-        </Data>
-        <Data name="informacao">
-          <value>BR:386/RS - Km: 342.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Decrescente</value>
-        </Data>
-        <Data name="latitude">
-          <value/>
-        </Data>
-        <Data name="longitude">
-          <value/>
-        </Data>
-        <Data name="situacao">
-          <value>Liberado</value>
-        </Data>
-      </ExtendedData>
-    </Placemark>
-    <Placemark>
-      <name>PRF</name>
-      <description><![CDATA[latlong: <br>unnamed (1): 77<br>UF: RS<br>BR: 386<br>Km: 249<br>Data/Hora inicial: 2024-04-30 16:30:00<br>Data/Hora final: 2024-05-07 11:10:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: SOLEDADE<br>Lideranças/Outras informações: <br>informacao: BR:386/RS - Km: 249.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: <br>longitude: <br>situacao: Liberado]]></description>
-      <ExtendedData>
-        <Data name="latlong">
-          <value/>
-        </Data>
-        <Data name="unnamed (1)">
-          <value>77.0</value>
         </Data>
         <Data name="UF">
           <value>RS</value>
@@ -849,125 +795,67 @@
     </Placemark>
     <Placemark>
       <name>PRF</name>
-      <address>-29.684095,-53.778575</address>
-      <description><![CDATA[latlong: -29.684095,-53.778575<br>unnamed (1): 78<br>UF: RS<br>BR: 158<br>Km: 321<br>Data/Hora inicial: 2024-04-30 17:46:00<br>Data/Hora final: 2024-05-13 17:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Parcial:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: SANTA MARIA<br>Lideranças/Outras informações: <br>informacao: BR:158/RS - Km: 321.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos<br>latitude: -29.684095<br>longitude: -53,779<br>situacao: Liberado]]></description>
-      <styleUrl>#icon-1739-097138</styleUrl>
+      <description><![CDATA[latlong: <br>unnamed (1): 77<br>UF: RS<br>BR: 386<br>Km: 342<br>Data/Hora inicial: 2024-04-30 16:30:00<br>Data/Hora final: 2024-05-07 11:10:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Decrescente<br>Tipo de prejuízo: <br>Nome do município: LAJEADO<br>Lideranças/Outras informações: <br>informacao: BR:386/RS - Km: 342.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Decrescente<br>latitude: <br>longitude: <br>situacao: Liberado]]></description>
       <ExtendedData>
         <Data name="latlong">
-          <value>-29.684095,-53.778575</value>
+          <value/>
+        </Data>
+        <Data name="unnamed (1)">
+          <value>77.0</value>
+        </Data>
+        <Data name="UF">
+          <value>RS</value>
+        </Data>
+        <Data name="BR">
+          <value>386.0</value>
+        </Data>
+        <Data name="Km">
+          <value>342.0</value>
+        </Data>
+        <Data name="Data/Hora inicial">
+          <value>2024-04-30 16:30:00</value>
+        </Data>
+        <Data name="Data/Hora final">
+          <value>2024-05-07 11:10:00</value>
+        </Data>
+        <Data name="Causador">
+          <value>Fenômenos da natureza</value>
+        </Data>
+        <Data name="Amplitude">
+          <value>Total:Decrescente</value>
+        </Data>
+        <Data name="Tipo de prejuízo">
+          <value/>
+        </Data>
+        <Data name="Nome do município">
+          <value>LAJEADO</value>
+        </Data>
+        <Data name="Lideranças/Outras informações">
+          <value/>
+        </Data>
+        <Data name="informacao">
+          <value>BR:386/RS - Km: 342.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Decrescente</value>
+        </Data>
+        <Data name="latitude">
+          <value/>
+        </Data>
+        <Data name="longitude">
+          <value/>
+        </Data>
+        <Data name="situacao">
+          <value>Liberado</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PRF</name>
+      <description><![CDATA[latlong: <br>unnamed (1): 78<br>UF: RS<br>BR: 290<br>Km: 3965<br>Data/Hora inicial: 2024-04-30 17:46:00<br>Data/Hora final: 2024-05-01 12:54:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: SANTA MARGARIDA DO SUL<br>Lideranças/Outras informações: <br>informacao: BR:290/RS - Km: 396.5 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: <br>longitude: <br>situacao: Liberado]]></description>
+      <ExtendedData>
+        <Data name="latlong">
+          <value/>
         </Data>
         <Data name="unnamed (1)">
           <value>78.0</value>
-        </Data>
-        <Data name="UF">
-          <value>RS</value>
-        </Data>
-        <Data name="BR">
-          <value>158.0</value>
-        </Data>
-        <Data name="Km">
-          <value>321.0</value>
-        </Data>
-        <Data name="Data/Hora inicial">
-          <value>2024-04-30 17:46:00</value>
-        </Data>
-        <Data name="Data/Hora final">
-          <value>2024-05-13 17:00:00</value>
-        </Data>
-        <Data name="Causador">
-          <value>Fenômenos da natureza</value>
-        </Data>
-        <Data name="Amplitude">
-          <value>Parcial:Ambos os sentidos</value>
-        </Data>
-        <Data name="Tipo de prejuízo">
-          <value/>
-        </Data>
-        <Data name="Nome do município">
-          <value>SANTA MARIA</value>
-        </Data>
-        <Data name="Lideranças/Outras informações">
-          <value/>
-        </Data>
-        <Data name="informacao">
-          <value>BR:158/RS - Km: 321.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos</value>
-        </Data>
-        <Data name="latitude">
-          <value>-29.684095</value>
-        </Data>
-        <Data name="longitude">
-          <value>-53.778575</value>
-        </Data>
-        <Data name="situacao">
-          <value>Liberado</value>
-        </Data>
-      </ExtendedData>
-    </Placemark>
-    <Placemark>
-      <name>PRF</name>
-      <address>-29.629556,-53.768388</address>
-      <description><![CDATA[latlong: -29.629556,-53.768388<br>unnamed (1): 79<br>UF: RS<br>BR: 158<br>Km: 312<br>Data/Hora inicial: 2024-04-30 17:46:00<br>Data/Hora final: 2024-05-11 19:20:00<br>Causador: Fenômenos da natureza<br>Amplitude: Parcial:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: ITAARA<br>Lideranças/Outras informações: <br>informacao: BR:158/RS - Km: 312.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos<br>latitude: -29.629556<br>longitude: -53,768<br>situacao: Liberado]]></description>
-      <styleUrl>#icon-1739-097138</styleUrl>
-      <ExtendedData>
-        <Data name="latlong">
-          <value>-29.629556,-53.768388</value>
-        </Data>
-        <Data name="unnamed (1)">
-          <value>79.0</value>
-        </Data>
-        <Data name="UF">
-          <value>RS</value>
-        </Data>
-        <Data name="BR">
-          <value>158.0</value>
-        </Data>
-        <Data name="Km">
-          <value>312.0</value>
-        </Data>
-        <Data name="Data/Hora inicial">
-          <value>2024-04-30 17:46:00</value>
-        </Data>
-        <Data name="Data/Hora final">
-          <value>2024-05-11 19:20:00</value>
-        </Data>
-        <Data name="Causador">
-          <value>Fenômenos da natureza</value>
-        </Data>
-        <Data name="Amplitude">
-          <value>Parcial:Ambos os sentidos</value>
-        </Data>
-        <Data name="Tipo de prejuízo">
-          <value/>
-        </Data>
-        <Data name="Nome do município">
-          <value>ITAARA</value>
-        </Data>
-        <Data name="Lideranças/Outras informações">
-          <value/>
-        </Data>
-        <Data name="informacao">
-          <value>BR:158/RS - Km: 312.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos</value>
-        </Data>
-        <Data name="latitude">
-          <value>-29.629556</value>
-        </Data>
-        <Data name="longitude">
-          <value>-53.768388</value>
-        </Data>
-        <Data name="situacao">
-          <value>Liberado</value>
-        </Data>
-      </ExtendedData>
-    </Placemark>
-    <Placemark>
-      <name>PRF</name>
-      <description><![CDATA[latlong: <br>unnamed (1): 80<br>UF: RS<br>BR: 290<br>Km: 3965<br>Data/Hora inicial: 2024-04-30 17:46:00<br>Data/Hora final: 2024-05-01 12:54:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: SANTA MARGARIDA DO SUL<br>Lideranças/Outras informações: <br>informacao: BR:290/RS - Km: 396.5 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: <br>longitude: <br>situacao: Liberado]]></description>
-      <ExtendedData>
-        <Data name="latlong">
-          <value/>
-        </Data>
-        <Data name="unnamed (1)">
-          <value>80.0</value>
         </Data>
         <Data name="UF">
           <value>RS</value>
@@ -1007,6 +895,118 @@
         </Data>
         <Data name="longitude">
           <value/>
+        </Data>
+        <Data name="situacao">
+          <value>Liberado</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PRF</name>
+      <address>-29.703747,-53.795246</address>
+      <description><![CDATA[latlong: -29.703747,-53.795246<br>unnamed (1): 79<br>UF: RS<br>BR: 158<br>Km: 325<br>Data/Hora inicial: 2024-04-30 17:46:00<br>Data/Hora final: 2024-05-01 07:20:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: SANTA MARIA<br>Lideranças/Outras informações: <br>informacao: BR:158/RS - Km: 325.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.703747<br>longitude: -53,795<br>situacao: Liberado]]></description>
+      <styleUrl>#icon-1739-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latlong">
+          <value>-29.703747,-53.795246</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value>79.0</value>
+        </Data>
+        <Data name="UF">
+          <value>RS</value>
+        </Data>
+        <Data name="BR">
+          <value>158.0</value>
+        </Data>
+        <Data name="Km">
+          <value>325.0</value>
+        </Data>
+        <Data name="Data/Hora inicial">
+          <value>2024-04-30 17:46:00</value>
+        </Data>
+        <Data name="Data/Hora final">
+          <value>2024-05-01 07:20:00</value>
+        </Data>
+        <Data name="Causador">
+          <value>Fenômenos da natureza</value>
+        </Data>
+        <Data name="Amplitude">
+          <value>Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="Tipo de prejuízo">
+          <value/>
+        </Data>
+        <Data name="Nome do município">
+          <value>SANTA MARIA</value>
+        </Data>
+        <Data name="Lideranças/Outras informações">
+          <value/>
+        </Data>
+        <Data name="informacao">
+          <value>BR:158/RS - Km: 325.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="latitude">
+          <value>-29.703747</value>
+        </Data>
+        <Data name="longitude">
+          <value>-53.795246</value>
+        </Data>
+        <Data name="situacao">
+          <value>Liberado</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PRF</name>
+      <address>-29.629556,-53.768388</address>
+      <description><![CDATA[latlong: -29.629556,-53.768388<br>unnamed (1): 80<br>UF: RS<br>BR: 158<br>Km: 312<br>Data/Hora inicial: 2024-04-30 17:46:00<br>Data/Hora final: 2024-05-11 19:20:00<br>Causador: Fenômenos da natureza<br>Amplitude: Parcial:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: ITAARA<br>Lideranças/Outras informações: <br>informacao: BR:158/RS - Km: 312.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos<br>latitude: -29.629556<br>longitude: -53,768<br>situacao: Liberado]]></description>
+      <styleUrl>#icon-1739-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latlong">
+          <value>-29.629556,-53.768388</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value>80.0</value>
+        </Data>
+        <Data name="UF">
+          <value>RS</value>
+        </Data>
+        <Data name="BR">
+          <value>158.0</value>
+        </Data>
+        <Data name="Km">
+          <value>312.0</value>
+        </Data>
+        <Data name="Data/Hora inicial">
+          <value>2024-04-30 17:46:00</value>
+        </Data>
+        <Data name="Data/Hora final">
+          <value>2024-05-11 19:20:00</value>
+        </Data>
+        <Data name="Causador">
+          <value>Fenômenos da natureza</value>
+        </Data>
+        <Data name="Amplitude">
+          <value>Parcial:Ambos os sentidos</value>
+        </Data>
+        <Data name="Tipo de prejuízo">
+          <value/>
+        </Data>
+        <Data name="Nome do município">
+          <value>ITAARA</value>
+        </Data>
+        <Data name="Lideranças/Outras informações">
+          <value/>
+        </Data>
+        <Data name="informacao">
+          <value>BR:158/RS - Km: 312.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos</value>
+        </Data>
+        <Data name="latitude">
+          <value>-29.629556</value>
+        </Data>
+        <Data name="longitude">
+          <value>-53.768388</value>
         </Data>
         <Data name="situacao">
           <value>Liberado</value>
@@ -1069,12 +1069,12 @@
     </Placemark>
     <Placemark>
       <name>PRF</name>
-      <address>-29.703747,-53.795246</address>
-      <description><![CDATA[latlong: -29.703747,-53.795246<br>unnamed (1): 82<br>UF: RS<br>BR: 158<br>Km: 325<br>Data/Hora inicial: 2024-04-30 17:46:00<br>Data/Hora final: 2024-05-01 07:20:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: SANTA MARIA<br>Lideranças/Outras informações: <br>informacao: BR:158/RS - Km: 325.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.703747<br>longitude: -53,795<br>situacao: Liberado]]></description>
+      <address>-30.611558,-53.362364</address>
+      <description><![CDATA[latlong: -30.611558,-53.362364<br>unnamed (1): 82<br>UF: RS<br>BR: 392<br>Km: 241<br>Data/Hora inicial: 2024-04-30 17:46:00<br>Data/Hora final: 2024-05-03 20:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Parcial:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: CAÇAPAVA DO SUL<br>Lideranças/Outras informações: <br>informacao: BR:392/RS - Km: 241.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos<br>latitude: -30.611558<br>longitude: -53,362<br>situacao: Liberado]]></description>
       <styleUrl>#icon-1739-097138</styleUrl>
       <ExtendedData>
         <Data name="latlong">
-          <value>-29.703747,-53.795246</value>
+          <value>-30.611558,-53.362364</value>
         </Data>
         <Data name="unnamed (1)">
           <value>82.0</value>
@@ -1083,40 +1083,40 @@
           <value>RS</value>
         </Data>
         <Data name="BR">
-          <value>158.0</value>
+          <value>392.0</value>
         </Data>
         <Data name="Km">
-          <value>325.0</value>
+          <value>241.0</value>
         </Data>
         <Data name="Data/Hora inicial">
           <value>2024-04-30 17:46:00</value>
         </Data>
         <Data name="Data/Hora final">
-          <value>2024-05-01 07:20:00</value>
+          <value>2024-05-03 20:00:00</value>
         </Data>
         <Data name="Causador">
           <value>Fenômenos da natureza</value>
         </Data>
         <Data name="Amplitude">
-          <value>Total:Ambos os sentidos</value>
+          <value>Parcial:Ambos os sentidos</value>
         </Data>
         <Data name="Tipo de prejuízo">
           <value/>
         </Data>
         <Data name="Nome do município">
-          <value>SANTA MARIA</value>
+          <value>CAÇAPAVA DO SUL</value>
         </Data>
         <Data name="Lideranças/Outras informações">
           <value/>
         </Data>
         <Data name="informacao">
-          <value>BR:158/RS - Km: 325.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
+          <value>BR:392/RS - Km: 241.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos</value>
         </Data>
         <Data name="latitude">
-          <value>-29.703747</value>
+          <value>-30.611558</value>
         </Data>
         <Data name="longitude">
-          <value>-53.795246</value>
+          <value>-53.362364</value>
         </Data>
         <Data name="situacao">
           <value>Liberado</value>
@@ -1184,12 +1184,12 @@ Desde a semana passada, a BR-158/RS operava, entre os municípios, com tráfego 
     </Placemark>
     <Placemark>
       <name>PRF</name>
-      <address>-30.611558,-53.362364</address>
-      <description><![CDATA[latlong: -30.611558,-53.362364<br>unnamed (1): 84<br>UF: RS<br>BR: 392<br>Km: 241<br>Data/Hora inicial: 2024-04-30 17:46:00<br>Data/Hora final: 2024-05-03 20:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Parcial:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: CAÇAPAVA DO SUL<br>Lideranças/Outras informações: <br>informacao: BR:392/RS - Km: 241.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos<br>latitude: -30.611558<br>longitude: -53,362<br>situacao: Liberado]]></description>
+      <address>-29.684095,-53.778575</address>
+      <description><![CDATA[latlong: -29.684095,-53.778575<br>unnamed (1): 84<br>UF: RS<br>BR: 158<br>Km: 321<br>Data/Hora inicial: 2024-04-30 17:46:00<br>Data/Hora final: 2024-05-13 17:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Parcial:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: SANTA MARIA<br>Lideranças/Outras informações: <br>informacao: BR:158/RS - Km: 321.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos<br>latitude: -29.684095<br>longitude: -53,779<br>situacao: Liberado]]></description>
       <styleUrl>#icon-1739-097138</styleUrl>
       <ExtendedData>
         <Data name="latlong">
-          <value>-30.611558,-53.362364</value>
+          <value>-29.684095,-53.778575</value>
         </Data>
         <Data name="unnamed (1)">
           <value>84.0</value>
@@ -1198,16 +1198,16 @@ Desde a semana passada, a BR-158/RS operava, entre os municípios, com tráfego 
           <value>RS</value>
         </Data>
         <Data name="BR">
-          <value>392.0</value>
+          <value>158.0</value>
         </Data>
         <Data name="Km">
-          <value>241.0</value>
+          <value>321.0</value>
         </Data>
         <Data name="Data/Hora inicial">
           <value>2024-04-30 17:46:00</value>
         </Data>
         <Data name="Data/Hora final">
-          <value>2024-05-03 20:00:00</value>
+          <value>2024-05-13 17:00:00</value>
         </Data>
         <Data name="Causador">
           <value>Fenômenos da natureza</value>
@@ -1219,19 +1219,19 @@ Desde a semana passada, a BR-158/RS operava, entre os municípios, com tráfego 
           <value/>
         </Data>
         <Data name="Nome do município">
-          <value>CAÇAPAVA DO SUL</value>
+          <value>SANTA MARIA</value>
         </Data>
         <Data name="Lideranças/Outras informações">
           <value/>
         </Data>
         <Data name="informacao">
-          <value>BR:392/RS - Km: 241.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos</value>
+          <value>BR:158/RS - Km: 321.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos</value>
         </Data>
         <Data name="latitude">
-          <value>-30.611558</value>
+          <value>-29.684095</value>
         </Data>
         <Data name="longitude">
-          <value>-53.362364</value>
+          <value>-53.778575</value>
         </Data>
         <Data name="situacao">
           <value>Liberado</value>
@@ -1352,71 +1352,15 @@ Desde a semana passada, a BR-158/RS operava, entre os municípios, com tráfego 
     </Placemark>
     <Placemark>
       <name>PRF</name>
-      <address>-29.233483,-51.157433</address>
-      <description><![CDATA[latlong: -29.233483,-51.157433<br>unnamed (1): 87<br>UF: RS<br>BR: 116<br>Km: 1607<br>Data/Hora inicial: 2024-04-30 19:00:00<br>Data/Hora final: 2024-05-01 19:30:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: CAXIAS DO SUL<br>Lideranças/Outras informações: <br>informacao: BR:116/RS - Km: 160.7 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.233483<br>longitude: -51,157<br>situacao: Liberado]]></description>
-      <styleUrl>#icon-1739-097138</styleUrl>
-      <ExtendedData>
-        <Data name="latlong">
-          <value>-29.233483,-51.157433</value>
-        </Data>
-        <Data name="unnamed (1)">
-          <value>87.0</value>
-        </Data>
-        <Data name="UF">
-          <value>RS</value>
-        </Data>
-        <Data name="BR">
-          <value>116.0</value>
-        </Data>
-        <Data name="Km">
-          <value>1607.0</value>
-        </Data>
-        <Data name="Data/Hora inicial">
-          <value>2024-04-30 19:00:00</value>
-        </Data>
-        <Data name="Data/Hora final">
-          <value>2024-05-01 19:30:00</value>
-        </Data>
-        <Data name="Causador">
-          <value>Fenômenos da natureza</value>
-        </Data>
-        <Data name="Amplitude">
-          <value>Total:Ambos os sentidos</value>
-        </Data>
-        <Data name="Tipo de prejuízo">
-          <value/>
-        </Data>
-        <Data name="Nome do município">
-          <value>CAXIAS DO SUL</value>
-        </Data>
-        <Data name="Lideranças/Outras informações">
-          <value/>
-        </Data>
-        <Data name="informacao">
-          <value>BR:116/RS - Km: 160.7 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
-        </Data>
-        <Data name="latitude">
-          <value>-29.233483</value>
-        </Data>
-        <Data name="longitude">
-          <value>-51.157433</value>
-        </Data>
-        <Data name="situacao">
-          <value>Liberado</value>
-        </Data>
-      </ExtendedData>
-    </Placemark>
-    <Placemark>
-      <name>PRF</name>
       <address>-29.240194,-51.159333</address>
-      <description><![CDATA[latlong: -29.240194,-51.159333<br>unnamed (1): 88<br>UF: RS<br>BR: 116<br>Km: 162<br>Data/Hora inicial: 2024-04-30 19:00:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: CAXIAS DO SUL<br>Lideranças/Outras informações: <br>informacao: BR:116/RS - Km: 162.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.240194<br>longitude: -51,159<br>situacao: Bloqueio Total]]></description>
+      <description><![CDATA[latlong: -29.240194,-51.159333<br>unnamed (1): 87<br>UF: RS<br>BR: 116<br>Km: 162<br>Data/Hora inicial: 2024-04-30 19:00:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: CAXIAS DO SUL<br>Lideranças/Outras informações: <br>informacao: BR:116/RS - Km: 162.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.240194<br>longitude: -51,159<br>situacao: Bloqueio Total]]></description>
       <styleUrl>#icon-1899-DB4436</styleUrl>
       <ExtendedData>
         <Data name="latlong">
           <value>-29.240194,-51.159333</value>
         </Data>
         <Data name="unnamed (1)">
-          <value>88.0</value>
+          <value>87.0</value>
         </Data>
         <Data name="UF">
           <value>RS</value>
@@ -1459,6 +1403,62 @@ Desde a semana passada, a BR-158/RS operava, entre os municípios, com tráfego 
         </Data>
         <Data name="situacao">
           <value>Bloqueio Total</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PRF</name>
+      <address>-29.233483,-51.157433</address>
+      <description><![CDATA[latlong: -29.233483,-51.157433<br>unnamed (1): 88<br>UF: RS<br>BR: 116<br>Km: 1607<br>Data/Hora inicial: 2024-04-30 19:00:00<br>Data/Hora final: 2024-05-01 19:30:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: CAXIAS DO SUL<br>Lideranças/Outras informações: <br>informacao: BR:116/RS - Km: 160.7 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.233483<br>longitude: -51,157<br>situacao: Liberado]]></description>
+      <styleUrl>#icon-1739-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latlong">
+          <value>-29.233483,-51.157433</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value>88.0</value>
+        </Data>
+        <Data name="UF">
+          <value>RS</value>
+        </Data>
+        <Data name="BR">
+          <value>116.0</value>
+        </Data>
+        <Data name="Km">
+          <value>1607.0</value>
+        </Data>
+        <Data name="Data/Hora inicial">
+          <value>2024-04-30 19:00:00</value>
+        </Data>
+        <Data name="Data/Hora final">
+          <value>2024-05-01 19:30:00</value>
+        </Data>
+        <Data name="Causador">
+          <value>Fenômenos da natureza</value>
+        </Data>
+        <Data name="Amplitude">
+          <value>Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="Tipo de prejuízo">
+          <value/>
+        </Data>
+        <Data name="Nome do município">
+          <value>CAXIAS DO SUL</value>
+        </Data>
+        <Data name="Lideranças/Outras informações">
+          <value/>
+        </Data>
+        <Data name="informacao">
+          <value>BR:116/RS - Km: 160.7 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="latitude">
+          <value>-29.233483</value>
+        </Data>
+        <Data name="longitude">
+          <value>-51.157433</value>
+        </Data>
+        <Data name="situacao">
+          <value>Liberado</value>
         </Data>
       </ExtendedData>
     </Placemark>
@@ -1852,71 +1852,15 @@ Desde a semana passada, a BR-158/RS operava, entre os municípios, com tráfego 
     </Placemark>
     <Placemark>
       <name>PRF</name>
-      <address>-29.023123,-51.564859</address>
-      <description><![CDATA[latlong: -29.023123,-51.564859<br>unnamed (1): 99<br>UF: RS<br>BR: 470<br>Km: 190<br>Data/Hora inicial: 2024-05-01 09:00:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: VERANÓPOLIS<br>Lideranças/Outras informações: Queda de barreira.<br>informacao: BR:470/RS - Km: 190.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.023123<br>longitude: -51,565<br>situacao: Bloqueio Total]]></description>
-      <styleUrl>#icon-1899-DB4436</styleUrl>
-      <ExtendedData>
-        <Data name="latlong">
-          <value>-29.023123,-51.564859</value>
-        </Data>
-        <Data name="unnamed (1)">
-          <value>99.0</value>
-        </Data>
-        <Data name="UF">
-          <value>RS</value>
-        </Data>
-        <Data name="BR">
-          <value>470.0</value>
-        </Data>
-        <Data name="Km">
-          <value>190.0</value>
-        </Data>
-        <Data name="Data/Hora inicial">
-          <value>2024-05-01 09:00:00</value>
-        </Data>
-        <Data name="Data/Hora final">
-          <value/>
-        </Data>
-        <Data name="Causador">
-          <value>Fenômenos da natureza</value>
-        </Data>
-        <Data name="Amplitude">
-          <value>Total:Ambos os sentidos</value>
-        </Data>
-        <Data name="Tipo de prejuízo">
-          <value/>
-        </Data>
-        <Data name="Nome do município">
-          <value>VERANÓPOLIS</value>
-        </Data>
-        <Data name="Lideranças/Outras informações">
-          <value>Queda de barreira.</value>
-        </Data>
-        <Data name="informacao">
-          <value>BR:470/RS - Km: 190.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
-        </Data>
-        <Data name="latitude">
-          <value>-29.023123</value>
-        </Data>
-        <Data name="longitude">
-          <value>-51.564859</value>
-        </Data>
-        <Data name="situacao">
-          <value>Bloqueio Total</value>
-        </Data>
-      </ExtendedData>
-    </Placemark>
-    <Placemark>
-      <name>PRF</name>
       <address>-29.038269,-51.56647</address>
-      <description><![CDATA[latlong: -29.038269,-51.56647<br>unnamed (1): 100<br>UF: RS<br>BR: 470<br>Km: 192<br>Data/Hora inicial: 2024-05-01 09:00:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: VERANÓPOLIS<br>Lideranças/Outras informações: Queda de barreira.<br>informacao: BR:470/RS - Km: 192.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.038269<br>longitude: -51,566<br>situacao: Bloqueio Total]]></description>
+      <description><![CDATA[latlong: -29.038269,-51.56647<br>unnamed (1): 99<br>UF: RS<br>BR: 470<br>Km: 192<br>Data/Hora inicial: 2024-05-01 09:00:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: VERANÓPOLIS<br>Lideranças/Outras informações: Queda de barreira.<br>informacao: BR:470/RS - Km: 192.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.038269<br>longitude: -51,566<br>situacao: Bloqueio Total]]></description>
       <styleUrl>#icon-1899-DB4436</styleUrl>
       <ExtendedData>
         <Data name="latlong">
           <value>-29.038269,-51.56647</value>
         </Data>
         <Data name="unnamed (1)">
-          <value>100.0</value>
+          <value>99.0</value>
         </Data>
         <Data name="UF">
           <value>RS</value>
@@ -1956,6 +1900,62 @@ Desde a semana passada, a BR-158/RS operava, entre os municípios, com tráfego 
         </Data>
         <Data name="longitude">
           <value>-51.56647</value>
+        </Data>
+        <Data name="situacao">
+          <value>Bloqueio Total</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PRF</name>
+      <address>-29.023123,-51.564859</address>
+      <description><![CDATA[latlong: -29.023123,-51.564859<br>unnamed (1): 100<br>UF: RS<br>BR: 470<br>Km: 190<br>Data/Hora inicial: 2024-05-01 09:00:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: VERANÓPOLIS<br>Lideranças/Outras informações: Queda de barreira.<br>informacao: BR:470/RS - Km: 190.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.023123<br>longitude: -51,565<br>situacao: Bloqueio Total]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="latlong">
+          <value>-29.023123,-51.564859</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value>100.0</value>
+        </Data>
+        <Data name="UF">
+          <value>RS</value>
+        </Data>
+        <Data name="BR">
+          <value>470.0</value>
+        </Data>
+        <Data name="Km">
+          <value>190.0</value>
+        </Data>
+        <Data name="Data/Hora inicial">
+          <value>2024-05-01 09:00:00</value>
+        </Data>
+        <Data name="Data/Hora final">
+          <value/>
+        </Data>
+        <Data name="Causador">
+          <value>Fenômenos da natureza</value>
+        </Data>
+        <Data name="Amplitude">
+          <value>Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="Tipo de prejuízo">
+          <value/>
+        </Data>
+        <Data name="Nome do município">
+          <value>VERANÓPOLIS</value>
+        </Data>
+        <Data name="Lideranças/Outras informações">
+          <value>Queda de barreira.</value>
+        </Data>
+        <Data name="informacao">
+          <value>BR:470/RS - Km: 190.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="latitude">
+          <value>-29.023123</value>
+        </Data>
+        <Data name="longitude">
+          <value>-51.564859</value>
         </Data>
         <Data name="situacao">
           <value>Bloqueio Total</value>
@@ -2248,69 +2248,15 @@ Desde a semana passada, a BR-158/RS operava, entre os municípios, com tráfego 
     </Placemark>
     <Placemark>
       <name>PRF</name>
-      <description><![CDATA[latlong: <br>unnamed (1): 108<br>UF: RS<br>BR: 386<br>Km: 3492<br>Data/Hora inicial: 2024-05-01 19:00:00<br>Data/Hora final: 2024-05-06 19:30:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: ESTRELA<br>Lideranças/Outras informações: Ponte do Rio Taquari - Cheia do rio.<br>informacao: BR:386/RS - Km: 349.2 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: <br>longitude: <br>situacao: Liberado]]></description>
-      <ExtendedData>
-        <Data name="latlong">
-          <value/>
-        </Data>
-        <Data name="unnamed (1)">
-          <value>108.0</value>
-        </Data>
-        <Data name="UF">
-          <value>RS</value>
-        </Data>
-        <Data name="BR">
-          <value>386.0</value>
-        </Data>
-        <Data name="Km">
-          <value>3492.0</value>
-        </Data>
-        <Data name="Data/Hora inicial">
-          <value>2024-05-01 19:00:00</value>
-        </Data>
-        <Data name="Data/Hora final">
-          <value>2024-05-06 19:30:00</value>
-        </Data>
-        <Data name="Causador">
-          <value>Fenômenos da natureza</value>
-        </Data>
-        <Data name="Amplitude">
-          <value>Total:Ambos os sentidos</value>
-        </Data>
-        <Data name="Tipo de prejuízo">
-          <value/>
-        </Data>
-        <Data name="Nome do município">
-          <value>ESTRELA</value>
-        </Data>
-        <Data name="Lideranças/Outras informações">
-          <value>Ponte do Rio Taquari - Cheia do rio.</value>
-        </Data>
-        <Data name="informacao">
-          <value>BR:386/RS - Km: 349.2 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
-        </Data>
-        <Data name="latitude">
-          <value/>
-        </Data>
-        <Data name="longitude">
-          <value/>
-        </Data>
-        <Data name="situacao">
-          <value>Liberado</value>
-        </Data>
-      </ExtendedData>
-    </Placemark>
-    <Placemark>
-      <name>PRF</name>
       <address>-29.661849,-54.453489</address>
-      <description><![CDATA[latlong: -29.661849,-54.453489<br>unnamed (1): 109<br>UF: RS<br>BR: 287<br>Km: 308<br>Data/Hora inicial: 2024-05-01 19:00:00<br>Data/Hora final: 2024-05-02 11:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: SÃO PEDRO DO SUL<br>Lideranças/Outras informações: Às 19h será fechada, do km 308, 2km antes da várzea do Toropi, até o trevo da Mata.<br>informacao: BR:287/RS - Km: 308.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.661849<br>longitude: -54,453<br>situacao: Liberado]]></description>
+      <description><![CDATA[latlong: -29.661849,-54.453489<br>unnamed (1): 108<br>UF: RS<br>BR: 287<br>Km: 308<br>Data/Hora inicial: 2024-05-01 19:00:00<br>Data/Hora final: 2024-05-02 11:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: SÃO PEDRO DO SUL<br>Lideranças/Outras informações: Às 19h será fechada, do km 308, 2km antes da várzea do Toropi, até o trevo da Mata.<br>informacao: BR:287/RS - Km: 308.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.661849<br>longitude: -54,453<br>situacao: Liberado]]></description>
       <styleUrl>#icon-1739-097138</styleUrl>
       <ExtendedData>
         <Data name="latlong">
           <value>-29.661849,-54.453489</value>
         </Data>
         <Data name="unnamed (1)">
-          <value>109.0</value>
+          <value>108.0</value>
         </Data>
         <Data name="UF">
           <value>RS</value>
@@ -2350,6 +2296,60 @@ Desde a semana passada, a BR-158/RS operava, entre os municípios, com tráfego 
         </Data>
         <Data name="longitude">
           <value>-54.453489</value>
+        </Data>
+        <Data name="situacao">
+          <value>Liberado</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PRF</name>
+      <description><![CDATA[latlong: <br>unnamed (1): 109<br>UF: RS<br>BR: 386<br>Km: 3492<br>Data/Hora inicial: 2024-05-01 19:00:00<br>Data/Hora final: 2024-05-06 19:30:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: ESTRELA<br>Lideranças/Outras informações: Ponte do Rio Taquari - Cheia do rio.<br>informacao: BR:386/RS - Km: 349.2 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: <br>longitude: <br>situacao: Liberado]]></description>
+      <ExtendedData>
+        <Data name="latlong">
+          <value/>
+        </Data>
+        <Data name="unnamed (1)">
+          <value>109.0</value>
+        </Data>
+        <Data name="UF">
+          <value>RS</value>
+        </Data>
+        <Data name="BR">
+          <value>386.0</value>
+        </Data>
+        <Data name="Km">
+          <value>3492.0</value>
+        </Data>
+        <Data name="Data/Hora inicial">
+          <value>2024-05-01 19:00:00</value>
+        </Data>
+        <Data name="Data/Hora final">
+          <value>2024-05-06 19:30:00</value>
+        </Data>
+        <Data name="Causador">
+          <value>Fenômenos da natureza</value>
+        </Data>
+        <Data name="Amplitude">
+          <value>Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="Tipo de prejuízo">
+          <value/>
+        </Data>
+        <Data name="Nome do município">
+          <value>ESTRELA</value>
+        </Data>
+        <Data name="Lideranças/Outras informações">
+          <value>Ponte do Rio Taquari - Cheia do rio.</value>
+        </Data>
+        <Data name="informacao">
+          <value>BR:386/RS - Km: 349.2 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="latitude">
+          <value/>
+        </Data>
+        <Data name="longitude">
+          <value/>
         </Data>
         <Data name="situacao">
           <value>Liberado</value>
@@ -5095,69 +5095,13 @@ A obra terá início dentro e instantes com previsão de término entre a madrug
     </Placemark>
     <Placemark>
       <name>PRF</name>
-      <address>-29.0762338495,-52.277146216</address>
-      <description><![CDATA[latlong: -29.0762338495,-52.277146216<br>unnamed (1): 176<br>UF: RS<br>BR: 386<br>Km: 286<br>Data/Hora inicial: 2024-05-04 14:30:00<br>Data/Hora final: 2024-05-14 08:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Parcial:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: SÃO JOSÉ DO HERVAL<br>Lideranças/Outras informações: Queda de barreira.<br>informacao: BR:386/RS - Km: 286.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos<br>latitude: -29.0762338495<br>longitude: -52,277<br>situacao: Liberado]]></description>
-      <styleUrl>#icon-1739-097138</styleUrl>
+      <description><![CDATA[latlong: <br>unnamed (1): 176<br>UF: RS<br>BR: 386<br>Km: 297<br>Data/Hora inicial: 2024-05-04 14:30:00<br>Data/Hora final: 2024-05-05 12:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: POUSO NOVO<br>Lideranças/Outras informações: Pista cedeu devido às chuvas.<br>informacao: BR:386/RS - Km: 297.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: <br>longitude: <br>situacao: Liberado]]></description>
       <ExtendedData>
         <Data name="latlong">
-          <value>-29.0762338495,-52.277146216</value>
+          <value/>
         </Data>
         <Data name="unnamed (1)">
           <value>176.0</value>
-        </Data>
-        <Data name="UF">
-          <value>RS</value>
-        </Data>
-        <Data name="BR">
-          <value>386.0</value>
-        </Data>
-        <Data name="Km">
-          <value>286.0</value>
-        </Data>
-        <Data name="Data/Hora inicial">
-          <value>2024-05-04 14:30:00</value>
-        </Data>
-        <Data name="Data/Hora final">
-          <value>2024-05-14 08:00:00</value>
-        </Data>
-        <Data name="Causador">
-          <value>Fenômenos da natureza</value>
-        </Data>
-        <Data name="Amplitude">
-          <value>Parcial:Ambos os sentidos</value>
-        </Data>
-        <Data name="Tipo de prejuízo">
-          <value/>
-        </Data>
-        <Data name="Nome do município">
-          <value>SÃO JOSÉ DO HERVAL</value>
-        </Data>
-        <Data name="Lideranças/Outras informações">
-          <value>Queda de barreira.</value>
-        </Data>
-        <Data name="informacao">
-          <value>BR:386/RS - Km: 286.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos</value>
-        </Data>
-        <Data name="latitude">
-          <value>-29.0762338495</value>
-        </Data>
-        <Data name="longitude">
-          <value>-52.277146216</value>
-        </Data>
-        <Data name="situacao">
-          <value>Liberado</value>
-        </Data>
-      </ExtendedData>
-    </Placemark>
-    <Placemark>
-      <name>PRF</name>
-      <description><![CDATA[latlong: <br>unnamed (1): 177<br>UF: RS<br>BR: 386<br>Km: 297<br>Data/Hora inicial: 2024-05-04 14:30:00<br>Data/Hora final: 2024-05-05 12:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: POUSO NOVO<br>Lideranças/Outras informações: Pista cedeu devido às chuvas.<br>informacao: BR:386/RS - Km: 297.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: <br>longitude: <br>situacao: Liberado]]></description>
-      <ExtendedData>
-        <Data name="latlong">
-          <value/>
-        </Data>
-        <Data name="unnamed (1)">
-          <value>177.0</value>
         </Data>
         <Data name="UF">
           <value>RS</value>
@@ -5206,14 +5150,14 @@ A obra terá início dentro e instantes com previsão de término entre a madrug
     <Placemark>
       <name>PRF</name>
       <address>-29.1383933816084,-52.2389756534266</address>
-      <description><![CDATA[latlong: -29.1383933816084,-52.2389756534266<br>unnamed (1): 178<br>UF: RS<br>BR: 386<br>Km: 297<br>Data/Hora inicial: 2024-05-04 14:30:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Parcial:Crescente<br>Tipo de prejuízo: <br>Nome do município: POUSO NOVO<br>Lideranças/Outras informações: Queda de barreira.<br>14/05 14h - Queda de barreira- Causas naturais.  Pare e siga no local<br>informacao: BR:386/RS - Km: 297.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Crescente<br>latitude: -29.1383933816084<br>longitude: -52,239<br>situacao: Bloqueio Parcial]]></description>
+      <description><![CDATA[latlong: -29.1383933816084,-52.2389756534266<br>unnamed (1): 177<br>UF: RS<br>BR: 386<br>Km: 297<br>Data/Hora inicial: 2024-05-04 14:30:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Parcial:Crescente<br>Tipo de prejuízo: <br>Nome do município: POUSO NOVO<br>Lideranças/Outras informações: Queda de barreira.<br>14/05 14h - Queda de barreira- Causas naturais.  Pare e siga no local<br>informacao: BR:386/RS - Km: 297.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Crescente<br>latitude: -29.1383933816084<br>longitude: -52,239<br>situacao: Bloqueio Parcial]]></description>
       <styleUrl>#icon-1899-DB4436</styleUrl>
       <ExtendedData>
         <Data name="latlong">
           <value>-29.1383933816084,-52.2389756534266</value>
         </Data>
         <Data name="unnamed (1)">
-          <value>178.0</value>
+          <value>177.0</value>
         </Data>
         <Data name="UF">
           <value>RS</value>
@@ -5257,6 +5201,62 @@ A obra terá início dentro e instantes com previsão de término entre a madrug
         </Data>
         <Data name="situacao">
           <value>Bloqueio Parcial</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PRF</name>
+      <address>-29.0762338495,-52.277146216</address>
+      <description><![CDATA[latlong: -29.0762338495,-52.277146216<br>unnamed (1): 178<br>UF: RS<br>BR: 386<br>Km: 286<br>Data/Hora inicial: 2024-05-04 14:30:00<br>Data/Hora final: 2024-05-14 08:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Parcial:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: SÃO JOSÉ DO HERVAL<br>Lideranças/Outras informações: Queda de barreira.<br>informacao: BR:386/RS - Km: 286.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos<br>latitude: -29.0762338495<br>longitude: -52,277<br>situacao: Liberado]]></description>
+      <styleUrl>#icon-1739-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latlong">
+          <value>-29.0762338495,-52.277146216</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value>178.0</value>
+        </Data>
+        <Data name="UF">
+          <value>RS</value>
+        </Data>
+        <Data name="BR">
+          <value>386.0</value>
+        </Data>
+        <Data name="Km">
+          <value>286.0</value>
+        </Data>
+        <Data name="Data/Hora inicial">
+          <value>2024-05-04 14:30:00</value>
+        </Data>
+        <Data name="Data/Hora final">
+          <value>2024-05-14 08:00:00</value>
+        </Data>
+        <Data name="Causador">
+          <value>Fenômenos da natureza</value>
+        </Data>
+        <Data name="Amplitude">
+          <value>Parcial:Ambos os sentidos</value>
+        </Data>
+        <Data name="Tipo de prejuízo">
+          <value/>
+        </Data>
+        <Data name="Nome do município">
+          <value>SÃO JOSÉ DO HERVAL</value>
+        </Data>
+        <Data name="Lideranças/Outras informações">
+          <value>Queda de barreira.</value>
+        </Data>
+        <Data name="informacao">
+          <value>BR:386/RS - Km: 286.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos</value>
+        </Data>
+        <Data name="latitude">
+          <value>-29.0762338495</value>
+        </Data>
+        <Data name="longitude">
+          <value>-52.277146216</value>
+        </Data>
+        <Data name="situacao">
+          <value>Liberado</value>
         </Data>
       </ExtendedData>
     </Placemark>
@@ -5543,8 +5543,8 @@ Trânsito interrompido em ambos os sentidos</value>
     <Placemark>
       <name>PRF</name>
       <address>-29.846965,-51.694907</address>
-      <description><![CDATA[latlong: -29.846965,-51.694907<br>unnamed (1): 207<br>UF: RS<br>BR: 470<br>Km: 331<br>Data/Hora inicial: 2024-05-06 14:20:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: TRIUNFO<br>Lideranças/Outras informações: <br>informacao: BR:470/RS - Km: 331.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.846965<br>longitude: -51,695<br>situacao: Bloqueio Total]]></description>
-      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <description><![CDATA[latlong: -29.846965,-51.694907<br>unnamed (1): 207<br>UF: RS<br>BR: 470<br>Km: 331<br>Data/Hora inicial: 2024-05-06 14:20:00<br>Data/Hora final: 2024-05-16 07:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: TRIUNFO<br>Lideranças/Outras informações: <br>informacao: BR:470/RS - Km: 331.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.846965<br>longitude: -51,695<br>situacao: Liberado]]></description>
+      <styleUrl>#icon-1739-097138</styleUrl>
       <ExtendedData>
         <Data name="latlong">
           <value>-29.846965,-51.694907</value>
@@ -5565,7 +5565,7 @@ Trânsito interrompido em ambos os sentidos</value>
           <value>2024-05-06 14:20:00</value>
         </Data>
         <Data name="Data/Hora final">
-          <value/>
+          <value>2024-05-16 07:00:00</value>
         </Data>
         <Data name="Causador">
           <value>Fenômenos da natureza</value>
@@ -5592,7 +5592,7 @@ Trânsito interrompido em ambos os sentidos</value>
           <value>-51.694907</value>
         </Data>
         <Data name="situacao">
-          <value>Bloqueio Total</value>
+          <value>Liberado</value>
         </Data>
       </ExtendedData>
     </Placemark>
@@ -5713,8 +5713,8 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
     <Placemark>
       <name>PRF</name>
       <address>-29.40523192690348,-56.682673859732894</address>
-      <description><![CDATA[latlong: -29.40523192690348,-56.682673859732894<br>unnamed (1): 222<br>UF: RS<br>BR: 472<br>Km: 513<br>Data/Hora inicial: 2024-05-08 11:35:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: ITAQUI<br>Lideranças/Outras informações: <br>informacao: BR:472/RS - Km: 513.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.40523192690348<br>longitude: -56,683<br>situacao: Bloqueio Total]]></description>
-      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <description><![CDATA[latlong: -29.40523192690348,-56.682673859732894<br>unnamed (1): 222<br>UF: RS<br>BR: 472<br>Km: 513<br>Data/Hora inicial: 2024-05-08 11:35:00<br>Data/Hora final: 2024-05-15 17:49:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: ITAQUI<br>Lideranças/Outras informações: <br>informacao: BR:472/RS - Km: 513.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.40523192690348<br>longitude: -56,683<br>situacao: Liberado]]></description>
+      <styleUrl>#icon-1739-097138</styleUrl>
       <ExtendedData>
         <Data name="latlong">
           <value>-29.40523192690348,-56.682673859732894</value>
@@ -5735,7 +5735,7 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
           <value>2024-05-08 11:35:00</value>
         </Data>
         <Data name="Data/Hora final">
-          <value/>
+          <value>2024-05-15 17:49:00</value>
         </Data>
         <Data name="Causador">
           <value>Fenômenos da natureza</value>
@@ -5762,7 +5762,7 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
           <value>-56.682673859732894</value>
         </Data>
         <Data name="situacao">
-          <value>Bloqueio Total</value>
+          <value>Liberado</value>
         </Data>
       </ExtendedData>
     </Placemark>
@@ -6104,13 +6104,13 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
     </Placemark>
     <Placemark>
       <name>PRF</name>
-      <description><![CDATA[latlong: -30.010402.,-51.315895<br>unnamed (1): 273<br>UF: RS<br>BR: 290<br>Km: 102<br>Data/Hora inicial: 2024-05-11 10:00:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: ELDORADO DO SUL<br>Lideranças/Outras informações: Bloqueio total- Causas naturais.-SOMENTE EMERGÊNCIA E ABASTECIMENTO<br><br>LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO<br>informacao: BR:290/RS - Km: 102.0 - Fenômenos da natureza  - Tipo: Bloqueio - Total:Ambos os sentidos<br>latitude: -30.010402.<br>longitude: -51,316<br>situacao: Liberado]]></description>
+      <description><![CDATA[latlong: -30.010402.,-51.315895<br>unnamed (1): 274<br>UF: RS<br>BR: 290<br>Km: 102<br>Data/Hora inicial: 2024-05-11 10:00:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: ELDORADO DO SUL<br>Lideranças/Outras informações: Bloqueio total- Causas naturais.-SOMENTE EMERGÊNCIA E ABASTECIMENTO<br><br>LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO<br>informacao: BR:290/RS - Km: 102.0 - Fenômenos da natureza  - Tipo: Bloqueio - Total:Ambos os sentidos<br>latitude: -30.010402.<br>longitude: -51,316<br>situacao: Liberado]]></description>
       <ExtendedData>
         <Data name="latlong">
           <value>-30.010402.,-51.315895</value>
         </Data>
         <Data name="unnamed (1)">
-          <value>273.0</value>
+          <value>274.0</value>
         </Data>
         <Data name="UF">
           <value>RS</value>
@@ -6502,71 +6502,15 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
     </Placemark>
     <Placemark>
       <name>PRF</name>
-      <address>-29.1135585597297,-52.2443835194595</address>
-      <description><![CDATA[latlong: -29.1135585597297,-52.2443835194595<br>unnamed (1): 287<br>UF: RS<br>BR: 386<br>Km: 292<br>Data/Hora inicial: 2024-05-12 13:37:00<br>Data/Hora final: 2024-05-14 14:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: POUSO NOVO<br>Lideranças/Outras informações: <br>informacao: BR:386/RS - Km: 292.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.1135585597297<br>longitude: -52,244<br>situacao: Liberado]]></description>
-      <styleUrl>#icon-1739-097138</styleUrl>
-      <ExtendedData>
-        <Data name="latlong">
-          <value>-29.1135585597297,-52.2443835194595</value>
-        </Data>
-        <Data name="unnamed (1)">
-          <value>287.0</value>
-        </Data>
-        <Data name="UF">
-          <value>RS</value>
-        </Data>
-        <Data name="BR">
-          <value>386.0</value>
-        </Data>
-        <Data name="Km">
-          <value>292.0</value>
-        </Data>
-        <Data name="Data/Hora inicial">
-          <value>2024-05-12 13:37:00</value>
-        </Data>
-        <Data name="Data/Hora final">
-          <value>2024-05-14 14:00:00</value>
-        </Data>
-        <Data name="Causador">
-          <value>Fenômenos da natureza</value>
-        </Data>
-        <Data name="Amplitude">
-          <value>Total:Ambos os sentidos</value>
-        </Data>
-        <Data name="Tipo de prejuízo">
-          <value/>
-        </Data>
-        <Data name="Nome do município">
-          <value>POUSO NOVO</value>
-        </Data>
-        <Data name="Lideranças/Outras informações">
-          <value/>
-        </Data>
-        <Data name="informacao">
-          <value>BR:386/RS - Km: 292.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
-        </Data>
-        <Data name="latitude">
-          <value>-29.1135585597297</value>
-        </Data>
-        <Data name="longitude">
-          <value>-52.2443835194595</value>
-        </Data>
-        <Data name="situacao">
-          <value>Liberado</value>
-        </Data>
-      </ExtendedData>
-    </Placemark>
-    <Placemark>
-      <name>PRF</name>
       <address>-29.3179892682418,-52.1041825981319</address>
-      <description><![CDATA[latlong: -29.3179892682418,-52.1041825981319<br>unnamed (1): 288<br>UF: RS<br>BR: 386<br>Km: 325<br>Data/Hora inicial: 2024-05-12 13:37:00<br>Data/Hora final: 2024-05-14 14:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: MARQUES DE SOUZA<br>Lideranças/Outras informações: <br>informacao: BR:386/RS - Km: 325.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.3179892682418<br>longitude: -52,104<br>situacao: Liberado]]></description>
+      <description><![CDATA[latlong: -29.3179892682418,-52.1041825981319<br>unnamed (1): 287<br>UF: RS<br>BR: 386<br>Km: 325<br>Data/Hora inicial: 2024-05-12 13:37:00<br>Data/Hora final: 2024-05-14 14:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: MARQUES DE SOUZA<br>Lideranças/Outras informações: <br>informacao: BR:386/RS - Km: 325.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.3179892682418<br>longitude: -52,104<br>situacao: Liberado]]></description>
       <styleUrl>#icon-1739-097138</styleUrl>
       <ExtendedData>
         <Data name="latlong">
           <value>-29.3179892682418,-52.1041825981319</value>
         </Data>
         <Data name="unnamed (1)">
-          <value>288.0</value>
+          <value>287.0</value>
         </Data>
         <Data name="UF">
           <value>RS</value>
@@ -6606,6 +6550,62 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
         </Data>
         <Data name="longitude">
           <value>-52.1041825981319</value>
+        </Data>
+        <Data name="situacao">
+          <value>Liberado</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PRF</name>
+      <address>-29.1135585597297,-52.2443835194595</address>
+      <description><![CDATA[latlong: -29.1135585597297,-52.2443835194595<br>unnamed (1): 288<br>UF: RS<br>BR: 386<br>Km: 292<br>Data/Hora inicial: 2024-05-12 13:37:00<br>Data/Hora final: 2024-05-14 14:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: POUSO NOVO<br>Lideranças/Outras informações: <br>informacao: BR:386/RS - Km: 292.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.1135585597297<br>longitude: -52,244<br>situacao: Liberado]]></description>
+      <styleUrl>#icon-1739-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latlong">
+          <value>-29.1135585597297,-52.2443835194595</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value>288.0</value>
+        </Data>
+        <Data name="UF">
+          <value>RS</value>
+        </Data>
+        <Data name="BR">
+          <value>386.0</value>
+        </Data>
+        <Data name="Km">
+          <value>292.0</value>
+        </Data>
+        <Data name="Data/Hora inicial">
+          <value>2024-05-12 13:37:00</value>
+        </Data>
+        <Data name="Data/Hora final">
+          <value>2024-05-14 14:00:00</value>
+        </Data>
+        <Data name="Causador">
+          <value>Fenômenos da natureza</value>
+        </Data>
+        <Data name="Amplitude">
+          <value>Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="Tipo de prejuízo">
+          <value/>
+        </Data>
+        <Data name="Nome do município">
+          <value>POUSO NOVO</value>
+        </Data>
+        <Data name="Lideranças/Outras informações">
+          <value/>
+        </Data>
+        <Data name="informacao">
+          <value>BR:386/RS - Km: 292.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="latitude">
+          <value>-29.1135585597297</value>
+        </Data>
+        <Data name="longitude">
+          <value>-52.2443835194595</value>
         </Data>
         <Data name="situacao">
           <value>Liberado</value>
@@ -6726,71 +6726,15 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
     </Placemark>
     <Placemark>
       <name>PRF</name>
-      <address>-29.438652,-51.135389</address>
-      <description><![CDATA[latlong: -29.438652,-51.135389<br>unnamed (1): 292<br>UF: RS<br>BR: 116<br>Km: 192<br>Data/Hora inicial: 2024-05-12 18:00:00<br>Data/Hora final: 2024-05-14 10:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: PICADA CAFÉ<br>Lideranças/Outras informações: <br>informacao: BR:116/RS - Km: 192.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.438652<br>longitude: -51,135<br>situacao: Liberado]]></description>
-      <styleUrl>#icon-1739-097138</styleUrl>
-      <ExtendedData>
-        <Data name="latlong">
-          <value>-29.438652,-51.135389</value>
-        </Data>
-        <Data name="unnamed (1)">
-          <value>292.0</value>
-        </Data>
-        <Data name="UF">
-          <value>RS</value>
-        </Data>
-        <Data name="BR">
-          <value>116.0</value>
-        </Data>
-        <Data name="Km">
-          <value>192.0</value>
-        </Data>
-        <Data name="Data/Hora inicial">
-          <value>2024-05-12 18:00:00</value>
-        </Data>
-        <Data name="Data/Hora final">
-          <value>2024-05-14 10:00:00</value>
-        </Data>
-        <Data name="Causador">
-          <value>Fenômenos da natureza</value>
-        </Data>
-        <Data name="Amplitude">
-          <value>Total:Ambos os sentidos</value>
-        </Data>
-        <Data name="Tipo de prejuízo">
-          <value/>
-        </Data>
-        <Data name="Nome do município">
-          <value>PICADA CAFÉ</value>
-        </Data>
-        <Data name="Lideranças/Outras informações">
-          <value/>
-        </Data>
-        <Data name="informacao">
-          <value>BR:116/RS - Km: 192.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
-        </Data>
-        <Data name="latitude">
-          <value>-29.438652</value>
-        </Data>
-        <Data name="longitude">
-          <value>-51.135389</value>
-        </Data>
-        <Data name="situacao">
-          <value>Liberado</value>
-        </Data>
-      </ExtendedData>
-    </Placemark>
-    <Placemark>
-      <name>PRF</name>
       <address>-29.392211,-51.124829</address>
-      <description><![CDATA[latlong: -29.392211,-51.124829<br>unnamed (1): 293<br>UF: RS<br>BR: 116<br>Km: 185<br>Data/Hora inicial: 2024-05-12 18:00:00<br>Data/Hora final: 2024-05-14 09:30:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: NOVA PETRÓPOLIS<br>Lideranças/Outras informações: <br>informacao: BR:116/RS - Km: 185.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.392211<br>longitude: -51,125<br>situacao: Liberado]]></description>
+      <description><![CDATA[latlong: -29.392211,-51.124829<br>unnamed (1): 292<br>UF: RS<br>BR: 116<br>Km: 185<br>Data/Hora inicial: 2024-05-12 18:00:00<br>Data/Hora final: 2024-05-14 09:30:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: NOVA PETRÓPOLIS<br>Lideranças/Outras informações: <br>informacao: BR:116/RS - Km: 185.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.392211<br>longitude: -51,125<br>situacao: Liberado]]></description>
       <styleUrl>#icon-1739-097138</styleUrl>
       <ExtendedData>
         <Data name="latlong">
           <value>-29.392211,-51.124829</value>
         </Data>
         <Data name="unnamed (1)">
-          <value>293.0</value>
+          <value>292.0</value>
         </Data>
         <Data name="UF">
           <value>RS</value>
@@ -6830,6 +6774,62 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
         </Data>
         <Data name="longitude">
           <value>-51.124829</value>
+        </Data>
+        <Data name="situacao">
+          <value>Liberado</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PRF</name>
+      <address>-29.438652,-51.135389</address>
+      <description><![CDATA[latlong: -29.438652,-51.135389<br>unnamed (1): 293<br>UF: RS<br>BR: 116<br>Km: 192<br>Data/Hora inicial: 2024-05-12 18:00:00<br>Data/Hora final: 2024-05-14 10:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: PICADA CAFÉ<br>Lideranças/Outras informações: <br>informacao: BR:116/RS - Km: 192.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.438652<br>longitude: -51,135<br>situacao: Liberado]]></description>
+      <styleUrl>#icon-1739-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latlong">
+          <value>-29.438652,-51.135389</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value>293.0</value>
+        </Data>
+        <Data name="UF">
+          <value>RS</value>
+        </Data>
+        <Data name="BR">
+          <value>116.0</value>
+        </Data>
+        <Data name="Km">
+          <value>192.0</value>
+        </Data>
+        <Data name="Data/Hora inicial">
+          <value>2024-05-12 18:00:00</value>
+        </Data>
+        <Data name="Data/Hora final">
+          <value>2024-05-14 10:00:00</value>
+        </Data>
+        <Data name="Causador">
+          <value>Fenômenos da natureza</value>
+        </Data>
+        <Data name="Amplitude">
+          <value>Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="Tipo de prejuízo">
+          <value/>
+        </Data>
+        <Data name="Nome do município">
+          <value>PICADA CAFÉ</value>
+        </Data>
+        <Data name="Lideranças/Outras informações">
+          <value/>
+        </Data>
+        <Data name="informacao">
+          <value>BR:116/RS - Km: 192.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="latitude">
+          <value>-29.438652</value>
+        </Data>
+        <Data name="longitude">
+          <value>-51.135389</value>
         </Data>
         <Data name="situacao">
           <value>Liberado</value>
@@ -6950,15 +6950,71 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
     </Placemark>
     <Placemark>
       <name>PRF</name>
+      <address>-29.556364,-51.090639</address>
+      <description><![CDATA[latlong: -29.556364,-51.090639<br>unnamed (1): 302<br>UF: RS<br>BR: 116<br>Km: 219<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: 2024-05-15 19:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Parcial:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: MORRO REUTER<br>Lideranças/Outras informações: BR116 km219 (divisa Dois Irmãos x Morro Reuter) - PARE/SIGA do DNIT (encosta desmoronou no sentido crescente)<br>informacao: BR:116/RS - Km: 219.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos<br>latitude: -29.556364<br>longitude: -51,091<br>situacao: Liberado]]></description>
+      <styleUrl>#icon-1739-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latlong">
+          <value>-29.556364,-51.090639</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value>302.0</value>
+        </Data>
+        <Data name="UF">
+          <value>RS</value>
+        </Data>
+        <Data name="BR">
+          <value>116.0</value>
+        </Data>
+        <Data name="Km">
+          <value>219.0</value>
+        </Data>
+        <Data name="Data/Hora inicial">
+          <value>2024-05-13 10:51:00</value>
+        </Data>
+        <Data name="Data/Hora final">
+          <value>2024-05-15 19:00:00</value>
+        </Data>
+        <Data name="Causador">
+          <value>Fenômenos da natureza</value>
+        </Data>
+        <Data name="Amplitude">
+          <value>Parcial:Ambos os sentidos</value>
+        </Data>
+        <Data name="Tipo de prejuízo">
+          <value/>
+        </Data>
+        <Data name="Nome do município">
+          <value>MORRO REUTER</value>
+        </Data>
+        <Data name="Lideranças/Outras informações">
+          <value>BR116 km219 (divisa Dois Irmãos x Morro Reuter) - PARE/SIGA do DNIT (encosta desmoronou no sentido crescente)</value>
+        </Data>
+        <Data name="informacao">
+          <value>BR:116/RS - Km: 219.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos</value>
+        </Data>
+        <Data name="latitude">
+          <value>-29.556364</value>
+        </Data>
+        <Data name="longitude">
+          <value>-51.090639</value>
+        </Data>
+        <Data name="situacao">
+          <value>Liberado</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PRF</name>
       <address>-29.960693044884025,-51.09185457229615</address>
-      <description><![CDATA[latlong: -29.960693044884025,-51.09185457229615<br>unnamed (1): 302<br>UF: RS<br>BR: 290<br>Km: 83<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Parcial:Decrescente<br>Tipo de prejuízo: <br>Nome do município: PORTO ALEGRE<br>Lideranças/Outras informações: BR290 km83 - alça liberada. PARE/SIGA controlado Prefeitura<br>14/05 11h - Bloqueio da alça sentido litoral.<br>informacao: BR:290/RS - Km: 83.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Decrescente<br>latitude: -29.960693044884025<br>longitude: -51,092<br>situacao: Bloqueio Parcial]]></description>
+      <description><![CDATA[latlong: -29.960693044884025,-51.09185457229615<br>unnamed (1): 303<br>UF: RS<br>BR: 290<br>Km: 83<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Parcial:Decrescente<br>Tipo de prejuízo: <br>Nome do município: PORTO ALEGRE<br>Lideranças/Outras informações: BR290 km83 - alça liberada. PARE/SIGA controlado Prefeitura<br>14/05 11h - Bloqueio da alça sentido litoral.<br>informacao: BR:290/RS - Km: 83.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Decrescente<br>latitude: -29.960693044884025<br>longitude: -51,092<br>situacao: Bloqueio Parcial]]></description>
       <styleUrl>#icon-1899-DB4436</styleUrl>
       <ExtendedData>
         <Data name="latlong">
           <value>-29.960693044884025,-51.09185457229615</value>
         </Data>
         <Data name="unnamed (1)">
-          <value>302.0</value>
+          <value>303.0</value>
         </Data>
         <Data name="UF">
           <value>RS</value>
@@ -7002,62 +7058,6 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
         </Data>
         <Data name="situacao">
           <value>Bloqueio Parcial</value>
-        </Data>
-      </ExtendedData>
-    </Placemark>
-    <Placemark>
-      <name>PRF</name>
-      <address>-29.971502684545673,-51.20268881320954</address>
-      <description><![CDATA[latlong: -29.971502684545673,-51.20268881320954<br>unnamed (1): 303<br>UF: RS<br>BR: 448<br>Km: 22<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Decrescente<br>Tipo de prejuízo: <br>Nome do município: PORTO ALEGRE<br>Lideranças/Outras informações: BR448 km0 ao 22 - fluxo livre em toda extensão. BR448 x BR386 - quem vem de Sapucaia acessa pela contramão. Quem vem de Porto Alegre faz o retorno no km4 para acessar na contramão.<br>informacao: BR:448/RS - Km: 22.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Decrescente<br>latitude: -29.971502684545673<br>longitude: -51,203<br>situacao: Bloqueio Total]]></description>
-      <styleUrl>#icon-1899-DB4436</styleUrl>
-      <ExtendedData>
-        <Data name="latlong">
-          <value>-29.971502684545673,-51.20268881320954</value>
-        </Data>
-        <Data name="unnamed (1)">
-          <value>303.0</value>
-        </Data>
-        <Data name="UF">
-          <value>RS</value>
-        </Data>
-        <Data name="BR">
-          <value>448.0</value>
-        </Data>
-        <Data name="Km">
-          <value>22.0</value>
-        </Data>
-        <Data name="Data/Hora inicial">
-          <value>2024-05-13 10:51:00</value>
-        </Data>
-        <Data name="Data/Hora final">
-          <value/>
-        </Data>
-        <Data name="Causador">
-          <value>Fenômenos da natureza</value>
-        </Data>
-        <Data name="Amplitude">
-          <value>Total:Decrescente</value>
-        </Data>
-        <Data name="Tipo de prejuízo">
-          <value/>
-        </Data>
-        <Data name="Nome do município">
-          <value>PORTO ALEGRE</value>
-        </Data>
-        <Data name="Lideranças/Outras informações">
-          <value>BR448 km0 ao 22 - fluxo livre em toda extensão. BR448 x BR386 - quem vem de Sapucaia acessa pela contramão. Quem vem de Porto Alegre faz o retorno no km4 para acessar na contramão.</value>
-        </Data>
-        <Data name="informacao">
-          <value>BR:448/RS - Km: 22.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Decrescente</value>
-        </Data>
-        <Data name="latitude">
-          <value>-29.971502684545673</value>
-        </Data>
-        <Data name="longitude">
-          <value>-51.20268881320954</value>
-        </Data>
-        <Data name="situacao">
-          <value>Bloqueio Total</value>
         </Data>
       </ExtendedData>
     </Placemark>
@@ -7119,15 +7119,71 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
     </Placemark>
     <Placemark>
       <name>PRF</name>
+      <address>-29.9949685228571,-51.2169094442857</address>
+      <description><![CDATA[latlong: -29.9949685228571,-51.2169094442857<br>unnamed (1): 305<br>UF: RS<br>BR: 290<br>Km: 98<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: PORTO ALEGRE<br>Lideranças/Outras informações: Bloqueio total devido a água na pista<br>informacao: BR:290/RS - Km: 98.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.9949685228571<br>longitude: -51,217<br>situacao: Bloqueio Total]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="latlong">
+          <value>-29.9949685228571,-51.2169094442857</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value>305.0</value>
+        </Data>
+        <Data name="UF">
+          <value>RS</value>
+        </Data>
+        <Data name="BR">
+          <value>290.0</value>
+        </Data>
+        <Data name="Km">
+          <value>98.0</value>
+        </Data>
+        <Data name="Data/Hora inicial">
+          <value>2024-05-13 10:51:00</value>
+        </Data>
+        <Data name="Data/Hora final">
+          <value/>
+        </Data>
+        <Data name="Causador">
+          <value>Fenômenos da natureza</value>
+        </Data>
+        <Data name="Amplitude">
+          <value>Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="Tipo de prejuízo">
+          <value/>
+        </Data>
+        <Data name="Nome do município">
+          <value>PORTO ALEGRE</value>
+        </Data>
+        <Data name="Lideranças/Outras informações">
+          <value>Bloqueio total devido a água na pista</value>
+        </Data>
+        <Data name="informacao">
+          <value>BR:290/RS - Km: 98.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="latitude">
+          <value>-29.9949685228571</value>
+        </Data>
+        <Data name="longitude">
+          <value>-51.2169094442857</value>
+        </Data>
+        <Data name="situacao">
+          <value>Bloqueio Total</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PRF</name>
       <address>-29.974585722519596,-51.17796129721147</address>
-      <description><![CDATA[latlong: -29.974585722519596,-51.17796129721147<br>unnamed (1): 305<br>UF: RS<br>BR: 116<br>Km: 270<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Crescente<br>Tipo de prejuízo: <br>Nome do município: CANOAS<br>Lideranças/Outras informações: Não vai em direção ao aeroporto, e a capital está sendo desviado para a Freeway. BR116 km270 (Canoas) - acesso Aeroporto bloqueado (alagamento)<br>informacao: BR:116/RS - Km: 270.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Crescente<br>latitude: -29.974585722519596<br>longitude: -51,178<br>situacao: Bloqueio Total]]></description>
+      <description><![CDATA[latlong: -29.974585722519596,-51.17796129721147<br>unnamed (1): 306<br>UF: RS<br>BR: 116<br>Km: 270<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Crescente<br>Tipo de prejuízo: <br>Nome do município: CANOAS<br>Lideranças/Outras informações: Não vai em direção ao aeroporto, e a capital está sendo desviado para a Freeway. BR116 km270 (Canoas) - acesso Aeroporto bloqueado (alagamento)<br>informacao: BR:116/RS - Km: 270.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Crescente<br>latitude: -29.974585722519596<br>longitude: -51,178<br>situacao: Bloqueio Total]]></description>
       <styleUrl>#icon-1899-DB4436</styleUrl>
       <ExtendedData>
         <Data name="latlong">
           <value>-29.974585722519596,-51.17796129721147</value>
         </Data>
         <Data name="unnamed (1)">
-          <value>305.0</value>
+          <value>306.0</value>
         </Data>
         <Data name="UF">
           <value>RS</value>
@@ -7175,68 +7231,12 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
     </Placemark>
     <Placemark>
       <name>PRF</name>
-      <address>-29.893185214798617,-51.179800402541204</address>
-      <description><![CDATA[latlong: -29.893185214798617,-51.179800402541204<br>unnamed (1): 306<br>UF: RS<br>BR: 386<br>Km: 4462<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: CANOAS<br>Lideranças/Outras informações: Acesso da BR 116 para BR 386 totalmente bloqueado. BR386 km446 (Canoas) - alagamento total da via<br>informacao: BR:386/RS - Km: 446.2 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.893185214798617<br>longitude: -51,18<br>situacao: Bloqueio Total]]></description>
+      <address>-29.987228,-51.25613</address>
+      <description><![CDATA[latlong: -29.987228,-51.25613<br>unnamed (1): 307<br>UF: RS<br>BR: 290<br>Km: 102<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: PORTO ALEGRE<br>Lideranças/Outras informações: Passagem autorizada para veículos de emergência e abastecimento.<br>informacao: BR:290/RS - Km: 102.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.987228<br>longitude: -51,256<br>situacao: Bloqueio Total]]></description>
       <styleUrl>#icon-1899-DB4436</styleUrl>
       <ExtendedData>
         <Data name="latlong">
-          <value>-29.893185214798617,-51.179800402541204</value>
-        </Data>
-        <Data name="unnamed (1)">
-          <value>306.0</value>
-        </Data>
-        <Data name="UF">
-          <value>RS</value>
-        </Data>
-        <Data name="BR">
-          <value>386.0</value>
-        </Data>
-        <Data name="Km">
-          <value>4462.0</value>
-        </Data>
-        <Data name="Data/Hora inicial">
-          <value>2024-05-13 10:51:00</value>
-        </Data>
-        <Data name="Data/Hora final">
-          <value/>
-        </Data>
-        <Data name="Causador">
-          <value>Fenômenos da natureza</value>
-        </Data>
-        <Data name="Amplitude">
-          <value>Total:Ambos os sentidos</value>
-        </Data>
-        <Data name="Tipo de prejuízo">
-          <value/>
-        </Data>
-        <Data name="Nome do município">
-          <value>CANOAS</value>
-        </Data>
-        <Data name="Lideranças/Outras informações">
-          <value>Acesso da BR 116 para BR 386 totalmente bloqueado. BR386 km446 (Canoas) - alagamento total da via</value>
-        </Data>
-        <Data name="informacao">
-          <value>BR:386/RS - Km: 446.2 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
-        </Data>
-        <Data name="latitude">
-          <value>-29.893185214798617</value>
-        </Data>
-        <Data name="longitude">
-          <value>-51.179800402541204</value>
-        </Data>
-        <Data name="situacao">
-          <value>Bloqueio Total</value>
-        </Data>
-      </ExtendedData>
-    </Placemark>
-    <Placemark>
-      <name>PRF</name>
-      <address>-29.987416851320628,-51.20641000909291</address>
-      <description><![CDATA[latlong: -29.987416851320628,-51.20641000909291<br>unnamed (1): 307<br>UF: RS<br>BR: 290<br>Km: 95<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: PORTO ALEGRE<br>Lideranças/Outras informações: <br>informacao: BR:290/RS - Km: 95.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.987416851320628<br>longitude: -51,206<br>situacao: Bloqueio Total]]></description>
-      <styleUrl>#icon-1899-DB4436</styleUrl>
-      <ExtendedData>
-        <Data name="latlong">
-          <value>-29.987416851320628,-51.20641000909291</value>
+          <value>-29.987228,-51.25613</value>
         </Data>
         <Data name="unnamed (1)">
           <value>307.0</value>
@@ -7248,7 +7248,7 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
           <value>290.0</value>
         </Data>
         <Data name="Km">
-          <value>95.0</value>
+          <value>102.0</value>
         </Data>
         <Data name="Data/Hora inicial">
           <value>2024-05-13 10:51:00</value>
@@ -7269,16 +7269,128 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
           <value>PORTO ALEGRE</value>
         </Data>
         <Data name="Lideranças/Outras informações">
-          <value/>
+          <value>Passagem autorizada para veículos de emergência e abastecimento.</value>
         </Data>
         <Data name="informacao">
-          <value>BR:290/RS - Km: 95.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
+          <value>BR:290/RS - Km: 102.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
         </Data>
         <Data name="latitude">
-          <value>-29.987416851320628</value>
+          <value>-29.987228</value>
         </Data>
         <Data name="longitude">
-          <value>-51.20641000909291</value>
+          <value>-51.25613</value>
+        </Data>
+        <Data name="situacao">
+          <value>Bloqueio Total</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PRF</name>
+      <address>-29.971502684545673,-51.20268881320954</address>
+      <description><![CDATA[latlong: -29.971502684545673,-51.20268881320954<br>unnamed (1): 308<br>UF: RS<br>BR: 448<br>Km: 22<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Decrescente<br>Tipo de prejuízo: <br>Nome do município: PORTO ALEGRE<br>Lideranças/Outras informações: BR448 km0 ao 22 - fluxo livre em toda extensão. BR448 x BR386 - quem vem de Sapucaia acessa pela contramão. Quem vem de Porto Alegre faz o retorno no km4 para acessar na contramão.<br>informacao: BR:448/RS - Km: 22.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Decrescente<br>latitude: -29.971502684545673<br>longitude: -51,203<br>situacao: Bloqueio Total]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="latlong">
+          <value>-29.971502684545673,-51.20268881320954</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value>308.0</value>
+        </Data>
+        <Data name="UF">
+          <value>RS</value>
+        </Data>
+        <Data name="BR">
+          <value>448.0</value>
+        </Data>
+        <Data name="Km">
+          <value>22.0</value>
+        </Data>
+        <Data name="Data/Hora inicial">
+          <value>2024-05-13 10:51:00</value>
+        </Data>
+        <Data name="Data/Hora final">
+          <value/>
+        </Data>
+        <Data name="Causador">
+          <value>Fenômenos da natureza</value>
+        </Data>
+        <Data name="Amplitude">
+          <value>Total:Decrescente</value>
+        </Data>
+        <Data name="Tipo de prejuízo">
+          <value/>
+        </Data>
+        <Data name="Nome do município">
+          <value>PORTO ALEGRE</value>
+        </Data>
+        <Data name="Lideranças/Outras informações">
+          <value>BR448 km0 ao 22 - fluxo livre em toda extensão. BR448 x BR386 - quem vem de Sapucaia acessa pela contramão. Quem vem de Porto Alegre faz o retorno no km4 para acessar na contramão.</value>
+        </Data>
+        <Data name="informacao">
+          <value>BR:448/RS - Km: 22.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Decrescente</value>
+        </Data>
+        <Data name="latitude">
+          <value>-29.971502684545673</value>
+        </Data>
+        <Data name="longitude">
+          <value>-51.20268881320954</value>
+        </Data>
+        <Data name="situacao">
+          <value>Bloqueio Total</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PRF</name>
+      <address>-29.843937,-51.177286</address>
+      <description><![CDATA[latlong: -29.843937,-51.177286<br>unnamed (1): 309<br>UF: RS<br>BR: 116<br>Km: 256<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: ESTEIO<br>Lideranças/Outras informações: Bloqueio total da pista nos dois sentidos devido ao excesso de água sobre a pista. BR116 km255 ao 256 (Esteio) - alagamento total da via<br>informacao: BR:116/RS - Km: 256.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.843937<br>longitude: -51,177<br>situacao: Bloqueio Total]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="latlong">
+          <value>-29.843937,-51.177286</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value>309.0</value>
+        </Data>
+        <Data name="UF">
+          <value>RS</value>
+        </Data>
+        <Data name="BR">
+          <value>116.0</value>
+        </Data>
+        <Data name="Km">
+          <value>256.0</value>
+        </Data>
+        <Data name="Data/Hora inicial">
+          <value>2024-05-13 10:51:00</value>
+        </Data>
+        <Data name="Data/Hora final">
+          <value/>
+        </Data>
+        <Data name="Causador">
+          <value>Fenômenos da natureza</value>
+        </Data>
+        <Data name="Amplitude">
+          <value>Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="Tipo de prejuízo">
+          <value/>
+        </Data>
+        <Data name="Nome do município">
+          <value>ESTEIO</value>
+        </Data>
+        <Data name="Lideranças/Outras informações">
+          <value>Bloqueio total da pista nos dois sentidos devido ao excesso de água sobre a pista. BR116 km255 ao 256 (Esteio) - alagamento total da via</value>
+        </Data>
+        <Data name="informacao">
+          <value>BR:116/RS - Km: 256.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="latitude">
+          <value>-29.843937</value>
+        </Data>
+        <Data name="longitude">
+          <value>-51.177286</value>
         </Data>
         <Data name="situacao">
           <value>Bloqueio Total</value>
@@ -7288,14 +7400,14 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
     <Placemark>
       <name>PRF</name>
       <address>-29.967219515776254,-51.11320755687157</address>
-      <description><![CDATA[latlong: -29.967219515776254,-51.11320755687157<br>unnamed (1): 308<br>UF: RS<br>BR: 290<br>Km: 86<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Crescente<br>Tipo de prejuízo: <br>Nome do município: PORTO ALEGRE<br>Lideranças/Outras informações: BR290 km 86 - bloqueio TOTAL das alças.<br>informacao: BR:290/RS - Km: 86.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Crescente<br>latitude: -29.967219515776254<br>longitude: -51,113<br>situacao: Bloqueio Total]]></description>
+      <description><![CDATA[latlong: -29.967219515776254,-51.11320755687157<br>unnamed (1): 310<br>UF: RS<br>BR: 290<br>Km: 86<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Crescente<br>Tipo de prejuízo: <br>Nome do município: PORTO ALEGRE<br>Lideranças/Outras informações: BR290 km 86 - bloqueio TOTAL das alças.<br>informacao: BR:290/RS - Km: 86.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Crescente<br>latitude: -29.967219515776254<br>longitude: -51,113<br>situacao: Bloqueio Total]]></description>
       <styleUrl>#icon-1899-DB4436</styleUrl>
       <ExtendedData>
         <Data name="latlong">
           <value>-29.967219515776254,-51.11320755687157</value>
         </Data>
         <Data name="unnamed (1)">
-          <value>308.0</value>
+          <value>310.0</value>
         </Data>
         <Data name="UF">
           <value>RS</value>
@@ -7344,14 +7456,14 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
     <Placemark>
       <name>PRF</name>
       <address>-29.633,-51.143251</address>
-      <description><![CDATA[latlong: -29.633,-51.143251<br>unnamed (1): 309<br>UF: RS<br>BR: 116<br>Km: 232<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Parcial:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: ESTÂNCIA VELHA<br>Lideranças/Outras informações: BR116 km232 (divisa Ivoti x Estância Velha) - PARE/SIGA do DNIT (erosão na faixa da direita sentido decrescente)<br>informacao: BR:116/RS - Km: 232.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos<br>latitude: -29.633<br>longitude: -51,143<br>situacao: Bloqueio Parcial]]></description>
+      <description><![CDATA[latlong: -29.633,-51.143251<br>unnamed (1): 311<br>UF: RS<br>BR: 116<br>Km: 232<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Parcial:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: ESTÂNCIA VELHA<br>Lideranças/Outras informações: BR116 km232 (divisa Ivoti x Estância Velha) - PARE/SIGA do DNIT (erosão na faixa da direita sentido decrescente)<br>informacao: BR:116/RS - Km: 232.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos<br>latitude: -29.633<br>longitude: -51,143<br>situacao: Bloqueio Parcial]]></description>
       <styleUrl>#icon-1899-DB4436</styleUrl>
       <ExtendedData>
         <Data name="latlong">
           <value>-29.633,-51.143251</value>
         </Data>
         <Data name="unnamed (1)">
-          <value>309.0</value>
+          <value>311.0</value>
         </Data>
         <Data name="UF">
           <value>RS</value>
@@ -7399,124 +7511,12 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
     </Placemark>
     <Placemark>
       <name>PRF</name>
-      <address>-29.9949685228571,-51.2169094442857</address>
-      <description><![CDATA[latlong: -29.9949685228571,-51.2169094442857<br>unnamed (1): 310<br>UF: RS<br>BR: 290<br>Km: 98<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: PORTO ALEGRE<br>Lideranças/Outras informações: Bloqueio total devido a água na pista<br>informacao: BR:290/RS - Km: 98.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.9949685228571<br>longitude: -51,217<br>situacao: Bloqueio Total]]></description>
+      <address>-29.987416851320628,-51.20641000909291</address>
+      <description><![CDATA[latlong: -29.987416851320628,-51.20641000909291<br>unnamed (1): 312<br>UF: RS<br>BR: 290<br>Km: 95<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: PORTO ALEGRE<br>Lideranças/Outras informações: <br>informacao: BR:290/RS - Km: 95.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.987416851320628<br>longitude: -51,206<br>situacao: Bloqueio Total]]></description>
       <styleUrl>#icon-1899-DB4436</styleUrl>
       <ExtendedData>
         <Data name="latlong">
-          <value>-29.9949685228571,-51.2169094442857</value>
-        </Data>
-        <Data name="unnamed (1)">
-          <value>310.0</value>
-        </Data>
-        <Data name="UF">
-          <value>RS</value>
-        </Data>
-        <Data name="BR">
-          <value>290.0</value>
-        </Data>
-        <Data name="Km">
-          <value>98.0</value>
-        </Data>
-        <Data name="Data/Hora inicial">
-          <value>2024-05-13 10:51:00</value>
-        </Data>
-        <Data name="Data/Hora final">
-          <value/>
-        </Data>
-        <Data name="Causador">
-          <value>Fenômenos da natureza</value>
-        </Data>
-        <Data name="Amplitude">
-          <value>Total:Ambos os sentidos</value>
-        </Data>
-        <Data name="Tipo de prejuízo">
-          <value/>
-        </Data>
-        <Data name="Nome do município">
-          <value>PORTO ALEGRE</value>
-        </Data>
-        <Data name="Lideranças/Outras informações">
-          <value>Bloqueio total devido a água na pista</value>
-        </Data>
-        <Data name="informacao">
-          <value>BR:290/RS - Km: 98.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
-        </Data>
-        <Data name="latitude">
-          <value>-29.9949685228571</value>
-        </Data>
-        <Data name="longitude">
-          <value>-51.2169094442857</value>
-        </Data>
-        <Data name="situacao">
-          <value>Bloqueio Total</value>
-        </Data>
-      </ExtendedData>
-    </Placemark>
-    <Placemark>
-      <name>PRF</name>
-      <address>-29.556364,-51.090639</address>
-      <description><![CDATA[latlong: -29.556364,-51.090639<br>unnamed (1): 311<br>UF: RS<br>BR: 116<br>Km: 219<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Parcial:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: MORRO REUTER<br>Lideranças/Outras informações: BR116 km219 (divisa Dois Irmãos x Morro Reuter) - PARE/SIGA do DNIT (encosta desmoronou no sentido crescente)<br>informacao: BR:116/RS - Km: 219.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos<br>latitude: -29.556364<br>longitude: -51,091<br>situacao: Bloqueio Parcial]]></description>
-      <styleUrl>#icon-1899-DB4436</styleUrl>
-      <ExtendedData>
-        <Data name="latlong">
-          <value>-29.556364,-51.090639</value>
-        </Data>
-        <Data name="unnamed (1)">
-          <value>311.0</value>
-        </Data>
-        <Data name="UF">
-          <value>RS</value>
-        </Data>
-        <Data name="BR">
-          <value>116.0</value>
-        </Data>
-        <Data name="Km">
-          <value>219.0</value>
-        </Data>
-        <Data name="Data/Hora inicial">
-          <value>2024-05-13 10:51:00</value>
-        </Data>
-        <Data name="Data/Hora final">
-          <value/>
-        </Data>
-        <Data name="Causador">
-          <value>Fenômenos da natureza</value>
-        </Data>
-        <Data name="Amplitude">
-          <value>Parcial:Ambos os sentidos</value>
-        </Data>
-        <Data name="Tipo de prejuízo">
-          <value/>
-        </Data>
-        <Data name="Nome do município">
-          <value>MORRO REUTER</value>
-        </Data>
-        <Data name="Lideranças/Outras informações">
-          <value>BR116 km219 (divisa Dois Irmãos x Morro Reuter) - PARE/SIGA do DNIT (encosta desmoronou no sentido crescente)</value>
-        </Data>
-        <Data name="informacao">
-          <value>BR:116/RS - Km: 219.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos</value>
-        </Data>
-        <Data name="latitude">
-          <value>-29.556364</value>
-        </Data>
-        <Data name="longitude">
-          <value>-51.090639</value>
-        </Data>
-        <Data name="situacao">
-          <value>Bloqueio Parcial</value>
-        </Data>
-      </ExtendedData>
-    </Placemark>
-    <Placemark>
-      <name>PRF</name>
-      <address>-29.987228,-51.25613</address>
-      <description><![CDATA[latlong: -29.987228,-51.25613<br>unnamed (1): 312<br>UF: RS<br>BR: 290<br>Km: 102<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: PORTO ALEGRE<br>Lideranças/Outras informações: Passagem autorizada para veículos de emergência e abastecimento.<br>informacao: BR:290/RS - Km: 102.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.987228<br>longitude: -51,256<br>situacao: Bloqueio Total]]></description>
-      <styleUrl>#icon-1899-DB4436</styleUrl>
-      <ExtendedData>
-        <Data name="latlong">
-          <value>-29.987228,-51.25613</value>
+          <value>-29.987416851320628,-51.20641000909291</value>
         </Data>
         <Data name="unnamed (1)">
           <value>312.0</value>
@@ -7528,7 +7528,7 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
           <value>290.0</value>
         </Data>
         <Data name="Km">
-          <value>102.0</value>
+          <value>95.0</value>
         </Data>
         <Data name="Data/Hora inicial">
           <value>2024-05-13 10:51:00</value>
@@ -7549,16 +7549,16 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
           <value>PORTO ALEGRE</value>
         </Data>
         <Data name="Lideranças/Outras informações">
-          <value>Passagem autorizada para veículos de emergência e abastecimento.</value>
+          <value/>
         </Data>
         <Data name="informacao">
-          <value>BR:290/RS - Km: 102.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
+          <value>BR:290/RS - Km: 95.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
         </Data>
         <Data name="latitude">
-          <value>-29.987228</value>
+          <value>-29.987416851320628</value>
         </Data>
         <Data name="longitude">
-          <value>-51.25613</value>
+          <value>-51.20641000909291</value>
         </Data>
         <Data name="situacao">
           <value>Bloqueio Total</value>
@@ -7567,12 +7567,12 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
     </Placemark>
     <Placemark>
       <name>PRF</name>
-      <address>-29.843937,-51.177286</address>
-      <description><![CDATA[latlong: -29.843937,-51.177286<br>unnamed (1): 313<br>UF: RS<br>BR: 116<br>Km: 256<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: ESTEIO<br>Lideranças/Outras informações: Bloqueio total da pista nos dois sentidos devido ao excesso de água sobre a pista. BR116 km255 ao 256 (Esteio) - alagamento total da via<br>informacao: BR:116/RS - Km: 256.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.843937<br>longitude: -51,177<br>situacao: Bloqueio Total]]></description>
+      <address>-29.893185214798617,-51.179800402541204</address>
+      <description><![CDATA[latlong: -29.893185214798617,-51.179800402541204<br>unnamed (1): 313<br>UF: RS<br>BR: 386<br>Km: 4462<br>Data/Hora inicial: 2024-05-13 10:51:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: CANOAS<br>Lideranças/Outras informações: Acesso da BR 116 para BR 386 totalmente bloqueado. BR386 km446 (Canoas) - alagamento total da via<br>informacao: BR:386/RS - Km: 446.2 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.893185214798617<br>longitude: -51,18<br>situacao: Bloqueio Total]]></description>
       <styleUrl>#icon-1899-DB4436</styleUrl>
       <ExtendedData>
         <Data name="latlong">
-          <value>-29.843937,-51.177286</value>
+          <value>-29.893185214798617,-51.179800402541204</value>
         </Data>
         <Data name="unnamed (1)">
           <value>313.0</value>
@@ -7581,10 +7581,10 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
           <value>RS</value>
         </Data>
         <Data name="BR">
-          <value>116.0</value>
+          <value>386.0</value>
         </Data>
         <Data name="Km">
-          <value>256.0</value>
+          <value>4462.0</value>
         </Data>
         <Data name="Data/Hora inicial">
           <value>2024-05-13 10:51:00</value>
@@ -7602,19 +7602,19 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
           <value/>
         </Data>
         <Data name="Nome do município">
-          <value>ESTEIO</value>
+          <value>CANOAS</value>
         </Data>
         <Data name="Lideranças/Outras informações">
-          <value>Bloqueio total da pista nos dois sentidos devido ao excesso de água sobre a pista. BR116 km255 ao 256 (Esteio) - alagamento total da via</value>
+          <value>Acesso da BR 116 para BR 386 totalmente bloqueado. BR386 km446 (Canoas) - alagamento total da via</value>
         </Data>
         <Data name="informacao">
-          <value>BR:116/RS - Km: 256.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
+          <value>BR:386/RS - Km: 446.2 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
         </Data>
         <Data name="latitude">
-          <value>-29.843937</value>
+          <value>-29.893185214798617</value>
         </Data>
         <Data name="longitude">
-          <value>-51.177286</value>
+          <value>-51.179800402541204</value>
         </Data>
         <Data name="situacao">
           <value>Bloqueio Total</value>
@@ -7679,71 +7679,15 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
     </Placemark>
     <Placemark>
       <name>PRF</name>
-      <address>-29.758362,-51.151950</address>
-      <description><![CDATA[latlong: -29.758362,-51.151950<br>unnamed (1): 318<br>UF: RS<br>BR: 116<br>Km: 246<br>Data/Hora inicial: 2024-05-13 23:00:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: SÃO LEOPOLDO<br>Lideranças/Outras informações: Ponte sobre o Rio dios Sinos. CAMINHÕES E VEÍCULOS DE EMERGÊNCIA SEGUEM. Obras emergenciais do DNIT no aterro junto à Ponte do Rio dos Sinos. Para veículos leves: Quem vem no sentido Novo Hamburgo x Porto Alegre, chegando próximo ao Unidade Operacional de São Leopoldo é obrigado a retornar. Quem vem no sentido de Porto Alegre a Novo Hamburgo, nas proximidades do viaduto da Unisinos tem de retornar.<br>informacao: BR:116/RS - Km: 246.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.758362<br>longitude: -51,152<br>situacao: Bloqueio Total]]></description>
-      <styleUrl>#icon-1899-DB4436</styleUrl>
-      <ExtendedData>
-        <Data name="latlong">
-          <value>-29.758362,-51.151950</value>
-        </Data>
-        <Data name="unnamed (1)">
-          <value>318.0</value>
-        </Data>
-        <Data name="UF">
-          <value>RS</value>
-        </Data>
-        <Data name="BR">
-          <value>116.0</value>
-        </Data>
-        <Data name="Km">
-          <value>246.0</value>
-        </Data>
-        <Data name="Data/Hora inicial">
-          <value>2024-05-13 23:00:00</value>
-        </Data>
-        <Data name="Data/Hora final">
-          <value/>
-        </Data>
-        <Data name="Causador">
-          <value>Fenômenos da natureza</value>
-        </Data>
-        <Data name="Amplitude">
-          <value>Total:Ambos os sentidos</value>
-        </Data>
-        <Data name="Tipo de prejuízo">
-          <value/>
-        </Data>
-        <Data name="Nome do município">
-          <value>SÃO LEOPOLDO</value>
-        </Data>
-        <Data name="Lideranças/Outras informações">
-          <value>Ponte sobre o Rio dios Sinos. CAMINHÕES E VEÍCULOS DE EMERGÊNCIA SEGUEM. Obras emergenciais do DNIT no aterro junto à Ponte do Rio dos Sinos. Para veículos leves: Quem vem no sentido Novo Hamburgo x Porto Alegre, chegando próximo ao Unidade Operacional de São Leopoldo é obrigado a retornar. Quem vem no sentido de Porto Alegre a Novo Hamburgo, nas proximidades do viaduto da Unisinos tem de retornar.</value>
-        </Data>
-        <Data name="informacao">
-          <value>BR:116/RS - Km: 246.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
-        </Data>
-        <Data name="latitude">
-          <value>-29.758362</value>
-        </Data>
-        <Data name="longitude">
-          <value>-51.15195</value>
-        </Data>
-        <Data name="situacao">
-          <value>Bloqueio Total</value>
-        </Data>
-      </ExtendedData>
-    </Placemark>
-    <Placemark>
-      <name>PRF</name>
       <address>-29.758751,-51.151868</address>
-      <description><![CDATA[latlong: -29.758751,-51.151868<br>unnamed (1): 319<br>UF: RS<br>BR: 116<br>Km: 246<br>Data/Hora inicial: 2024-05-13 23:00:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: SÃO LEOPOLDO<br>Lideranças/Outras informações: <br>informacao: BR:116/RS - Km: 246.0 - Fenômenos da natureza  - Tipo: Bloqueio - Total:Ambos os sentidos<br>latitude: -29.758751<br>longitude: -51,152<br>situacao: Liberado]]></description>
+      <description><![CDATA[latlong: -29.758751,-51.151868<br>unnamed (1): 318<br>UF: RS<br>BR: 116<br>Km: 246<br>Data/Hora inicial: 2024-05-13 23:00:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: SÃO LEOPOLDO<br>Lideranças/Outras informações: <br>informacao: BR:116/RS - Km: 246.0 - Fenômenos da natureza  - Tipo: Bloqueio - Total:Ambos os sentidos<br>latitude: -29.758751<br>longitude: -51,152<br>situacao: Liberado]]></description>
       <styleUrl>#icon-1739-097138</styleUrl>
       <ExtendedData>
         <Data name="latlong">
           <value>-29.758751,-51.151868</value>
         </Data>
         <Data name="unnamed (1)">
-          <value>319.0</value>
+          <value>318.0</value>
         </Data>
         <Data name="UF">
           <value>RS</value>
@@ -7783,6 +7727,62 @@ LOCAL FAZ PARTE DO CORREDOR HUMANITÁRIO</value>
         </Data>
         <Data name="longitude">
           <value>-51.151868</value>
+        </Data>
+        <Data name="situacao">
+          <value>Liberado</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PRF</name>
+      <address>-29.758362,-51.151950</address>
+      <description><![CDATA[latlong: -29.758362,-51.151950<br>unnamed (1): 319<br>UF: RS<br>BR: 116<br>Km: 246<br>Data/Hora inicial: 2024-05-13 23:00:00<br>Data/Hora final: 2024-05-15 23:00:00<br>Causador: Fenômenos da natureza<br>Amplitude: Total:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: SÃO LEOPOLDO<br>Lideranças/Outras informações: Ponte sobre o Rio dios Sinos. CAMINHÕES E VEÍCULOS DE EMERGÊNCIA SEGUEM. Obras emergenciais do DNIT no aterro junto à Ponte do Rio dos Sinos. Para veículos leves: Quem vem no sentido Novo Hamburgo x Porto Alegre, chegando próximo ao Unidade Operacional de São Leopoldo é obrigado a retornar. Quem vem no sentido de Porto Alegre a Novo Hamburgo, nas proximidades do viaduto da Unisinos tem de retornar. Liberada às 23h para todos os veículos em ambos os sentidos.<br>informacao: BR:116/RS - Km: 246.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos<br>latitude: -29.758362<br>longitude: -51,152<br>situacao: Liberado]]></description>
+      <styleUrl>#icon-1739-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latlong">
+          <value>-29.758362,-51.151950</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value>319.0</value>
+        </Data>
+        <Data name="UF">
+          <value>RS</value>
+        </Data>
+        <Data name="BR">
+          <value>116.0</value>
+        </Data>
+        <Data name="Km">
+          <value>246.0</value>
+        </Data>
+        <Data name="Data/Hora inicial">
+          <value>2024-05-13 23:00:00</value>
+        </Data>
+        <Data name="Data/Hora final">
+          <value>2024-05-15 23:00:00</value>
+        </Data>
+        <Data name="Causador">
+          <value>Fenômenos da natureza</value>
+        </Data>
+        <Data name="Amplitude">
+          <value>Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="Tipo de prejuízo">
+          <value/>
+        </Data>
+        <Data name="Nome do município">
+          <value>SÃO LEOPOLDO</value>
+        </Data>
+        <Data name="Lideranças/Outras informações">
+          <value>Ponte sobre o Rio dios Sinos. CAMINHÕES E VEÍCULOS DE EMERGÊNCIA SEGUEM. Obras emergenciais do DNIT no aterro junto à Ponte do Rio dos Sinos. Para veículos leves: Quem vem no sentido Novo Hamburgo x Porto Alegre, chegando próximo ao Unidade Operacional de São Leopoldo é obrigado a retornar. Quem vem no sentido de Porto Alegre a Novo Hamburgo, nas proximidades do viaduto da Unisinos tem de retornar. Liberada às 23h para todos os veículos em ambos os sentidos.</value>
+        </Data>
+        <Data name="informacao">
+          <value>BR:116/RS - Km: 246.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Ambos os sentidos</value>
+        </Data>
+        <Data name="latitude">
+          <value>-29.758362</value>
+        </Data>
+        <Data name="longitude">
+          <value>-51.15195</value>
         </Data>
         <Data name="situacao">
           <value>Liberado</value>
@@ -8016,71 +8016,15 @@ Liberado tráfego em 1 faixa na pista Norte (sentido interior);</value>
     </Placemark>
     <Placemark>
       <name>PRF</name>
-      <address>-29.880108384965578,-51.239969831153395</address>
-      <description><![CDATA[latlong: -29.880108384965578,-51.239969831153395<br>unnamed (1): 329<br>UF: RS<br>BR: 448<br>Km: 10<br>Data/Hora inicial: 2024-05-14 11:49:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Crescente<br>Tipo de prejuízo: <br>Nome do município: CANOAS<br>Lideranças/Outras informações: Bloqueio total das alças de acesso à BR-386, em ambos os sentidos.<br>informacao: BR:448/RS - Km: 10.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Crescente<br>latitude: -29.880108384965578<br>longitude: -51,24<br>situacao: Bloqueio Total]]></description>
-      <styleUrl>#icon-1899-DB4436</styleUrl>
-      <ExtendedData>
-        <Data name="latlong">
-          <value>-29.880108384965578,-51.239969831153395</value>
-        </Data>
-        <Data name="unnamed (1)">
-          <value>329.0</value>
-        </Data>
-        <Data name="UF">
-          <value>RS</value>
-        </Data>
-        <Data name="BR">
-          <value>448.0</value>
-        </Data>
-        <Data name="Km">
-          <value>10.0</value>
-        </Data>
-        <Data name="Data/Hora inicial">
-          <value>2024-05-14 11:49:00</value>
-        </Data>
-        <Data name="Data/Hora final">
-          <value/>
-        </Data>
-        <Data name="Causador">
-          <value>Fenômenos da natureza</value>
-        </Data>
-        <Data name="Amplitude">
-          <value>Total:Crescente</value>
-        </Data>
-        <Data name="Tipo de prejuízo">
-          <value/>
-        </Data>
-        <Data name="Nome do município">
-          <value>CANOAS</value>
-        </Data>
-        <Data name="Lideranças/Outras informações">
-          <value>Bloqueio total das alças de acesso à BR-386, em ambos os sentidos.</value>
-        </Data>
-        <Data name="informacao">
-          <value>BR:448/RS - Km: 10.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Crescente</value>
-        </Data>
-        <Data name="latitude">
-          <value>-29.880108384965578</value>
-        </Data>
-        <Data name="longitude">
-          <value>-51.239969831153395</value>
-        </Data>
-        <Data name="situacao">
-          <value>Bloqueio Total</value>
-        </Data>
-      </ExtendedData>
-    </Placemark>
-    <Placemark>
-      <name>PRF</name>
       <address>-29.883595855454395,-51.230022450868276</address>
-      <description><![CDATA[latlong: -29.883595855454395,-51.230022450868276<br>unnamed (1): 330<br>UF: RS<br>BR: 448<br>Km: 10<br>Data/Hora inicial: 2024-05-14 11:49:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Decrescente<br>Tipo de prejuízo: <br>Nome do município: CANOAS<br>Lideranças/Outras informações: <br>informacao: BR:448/RS - Km: 10.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Decrescente<br>latitude: -29.883595855454395<br>longitude: -51,23<br>situacao: Bloqueio Total]]></description>
+      <description><![CDATA[latlong: -29.883595855454395,-51.230022450868276<br>unnamed (1): 329<br>UF: RS<br>BR: 448<br>Km: 10<br>Data/Hora inicial: 2024-05-14 11:49:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Decrescente<br>Tipo de prejuízo: <br>Nome do município: CANOAS<br>Lideranças/Outras informações: <br>informacao: BR:448/RS - Km: 10.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Decrescente<br>latitude: -29.883595855454395<br>longitude: -51,23<br>situacao: Bloqueio Total]]></description>
       <styleUrl>#icon-1899-DB4436</styleUrl>
       <ExtendedData>
         <Data name="latlong">
           <value>-29.883595855454395,-51.230022450868276</value>
         </Data>
         <Data name="unnamed (1)">
-          <value>330.0</value>
+          <value>329.0</value>
         </Data>
         <Data name="UF">
           <value>RS</value>
@@ -8120,6 +8064,62 @@ Liberado tráfego em 1 faixa na pista Norte (sentido interior);</value>
         </Data>
         <Data name="longitude">
           <value>-51.230022450868276</value>
+        </Data>
+        <Data name="situacao">
+          <value>Bloqueio Total</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PRF</name>
+      <address>-29.880108384965578,-51.239969831153395</address>
+      <description><![CDATA[latlong: -29.880108384965578,-51.239969831153395<br>unnamed (1): 330<br>UF: RS<br>BR: 448<br>Km: 10<br>Data/Hora inicial: 2024-05-14 11:49:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Total:Crescente<br>Tipo de prejuízo: <br>Nome do município: CANOAS<br>Lideranças/Outras informações: Bloqueio total das alças de acesso à BR-386, em ambos os sentidos.<br>informacao: BR:448/RS - Km: 10.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Crescente<br>latitude: -29.880108384965578<br>longitude: -51,24<br>situacao: Bloqueio Total]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="latlong">
+          <value>-29.880108384965578,-51.239969831153395</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value>330.0</value>
+        </Data>
+        <Data name="UF">
+          <value>RS</value>
+        </Data>
+        <Data name="BR">
+          <value>448.0</value>
+        </Data>
+        <Data name="Km">
+          <value>10.0</value>
+        </Data>
+        <Data name="Data/Hora inicial">
+          <value>2024-05-14 11:49:00</value>
+        </Data>
+        <Data name="Data/Hora final">
+          <value/>
+        </Data>
+        <Data name="Causador">
+          <value>Fenômenos da natureza</value>
+        </Data>
+        <Data name="Amplitude">
+          <value>Total:Crescente</value>
+        </Data>
+        <Data name="Tipo de prejuízo">
+          <value/>
+        </Data>
+        <Data name="Nome do município">
+          <value>CANOAS</value>
+        </Data>
+        <Data name="Lideranças/Outras informações">
+          <value>Bloqueio total das alças de acesso à BR-386, em ambos os sentidos.</value>
+        </Data>
+        <Data name="informacao">
+          <value>BR:448/RS - Km: 10.0 - Fenômenos da natureza  - Tipo: Interdição - Total:Crescente</value>
+        </Data>
+        <Data name="latitude">
+          <value>-29.880108384965578</value>
+        </Data>
+        <Data name="longitude">
+          <value>-51.239969831153395</value>
         </Data>
         <Data name="situacao">
           <value>Bloqueio Total</value>
@@ -8403,6 +8403,62 @@ Liberado tráfego em 1 faixa na pista Norte (sentido interior);</value>
         </Data>
         <Data name="situacao">
           <value>Liberado</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PRF</name>
+      <address>-29.758751,-51.151868</address>
+      <description><![CDATA[latlong: -29.758751,-51.151868<br>unnamed (1): 348<br>UF: RS<br>BR: 116<br>Km: 246<br>Data/Hora inicial: 2024-05-15 23:00:00<br>Data/Hora final: <br>Causador: Fenômenos da natureza<br>Amplitude: Parcial:Ambos os sentidos<br>Tipo de prejuízo: <br>Nome do município: SÃO LEOPOLDO<br>Lideranças/Outras informações: <br>informacao: BR:116/RS - Km: 246.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos<br>latitude: -29.758751<br>longitude: -51,152<br>situacao: Bloqueio Parcial]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="latlong">
+          <value>-29.758751,-51.151868</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value>348.0</value>
+        </Data>
+        <Data name="UF">
+          <value>RS</value>
+        </Data>
+        <Data name="BR">
+          <value>116.0</value>
+        </Data>
+        <Data name="Km">
+          <value>246.0</value>
+        </Data>
+        <Data name="Data/Hora inicial">
+          <value>2024-05-15 23:00:00</value>
+        </Data>
+        <Data name="Data/Hora final">
+          <value/>
+        </Data>
+        <Data name="Causador">
+          <value>Fenômenos da natureza</value>
+        </Data>
+        <Data name="Amplitude">
+          <value>Parcial:Ambos os sentidos</value>
+        </Data>
+        <Data name="Tipo de prejuízo">
+          <value/>
+        </Data>
+        <Data name="Nome do município">
+          <value>SÃO LEOPOLDO</value>
+        </Data>
+        <Data name="Lideranças/Outras informações">
+          <value/>
+        </Data>
+        <Data name="informacao">
+          <value>BR:116/RS - Km: 246.0 - Fenômenos da natureza  - Tipo: Interdição - Parcial:Ambos os sentidos</value>
+        </Data>
+        <Data name="latitude">
+          <value>-29.758751</value>
+        </Data>
+        <Data name="longitude">
+          <value>-51.151868</value>
+        </Data>
+        <Data name="situacao">
+          <value>Bloqueio Parcial</value>
         </Data>
       </ExtendedData>
     </Placemark>
